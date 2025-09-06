@@ -10,7 +10,7 @@ It includes solutions to common problems, algorithm implementations and various 
 - **StacksQueues/** – Stack and queue implementations and problems  
 - **Trees/** – Binary trees, BSTs, and tree algorithms  
 - **Graphs/** – Graph representations and traversal algorithms  
-- **DynamicProgramming/** – DP problems and solutions  
+- **DP/** – Dynamic Programming problems and solutions  
 - **Recursion/** – Recursive problem-solving approaches  
 
 ## Languages
@@ -23,8 +23,9 @@ It includes solutions to common problems, algorithm implementations and various 
 Clone this repository and use it as a reference for practicing DSA problems:
 
 ```bash
-git clone https://github.com/your-username/DSA.git
+git clone https://github.com/iamtgiri/DSA.git
 ```
+
 ## Contribution
 
 This is primarily a personal practice repo, but contributions are welcome!
