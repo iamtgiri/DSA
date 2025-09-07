@@ -4,50 +4,35 @@ Problem Statement:
 Given an array of positive integers `arr` and an integer `sum`,
 count the number of subsets of `arr` whose elements add up exactly to `sum`.
 
-This is a variation of the "Subset Sum" problem, solved using
-Dynamic Programming (DP).
-
-Approach:
----------
-We use a DP table `dp[i][j]` where:
-- i = number of elements considered (from 0..n)
-- j = target sum (from 0..sum)
-
-dp[i][j] = number of subsets of first i elements that form sum j.
-
-Recurrence:
+Approaches:
 -----------
-1. Base cases:
-   - dp[0][0] = 1  (empty set forms sum 0)
-   - dp[0][j] = 0  (no subsets possible for j>0 with 0 elements)
-   - dp[i][0] = 1  (empty subset always forms sum 0)
+1. 2D DP (Tabulation):
+   - dp[i][j] = number of subsets from first i elements with sum j.
+   - Time:  O(n * sum)
+   - Space: O(n * sum)
 
-2. Transition:
-   If we consider the i-th element (arr[i-1]):
-   - If arr[i-1] <= j:
-       dp[i][j] = dp[i-1][j] + dp[i-1][j - arr[i-1]]
-       (exclude element + include element)
-   - Else:
-       dp[i][j] = dp[i-1][j]  (can't include element)
-
-Time Complexity:  O(n * sum)
-Space Complexity: O(n * sum)   (can be optimized to O(sum))
+2. 1D DP (Space Optimized):
+   - dp[j] = number of subsets with sum j using processed elements so far.
+   - Update dp backwards for each element.
+   - Time:  O(n * sum)
+   - Space: O(sum)
 */
 
 #include <iostream>
 #include <vector>
 
+// ---------------------------
+// 1. 2D DP Approach
+// ---------------------------
 std::vector<std::vector<int>> dp(102, std::vector<int>(102, 0));
 
 int countSubset(const std::vector<int> &arr, int sum)
 {
     const int n = arr.size();
 
-    // Base cases
     for (int i = 0; i <= n; ++i)
         dp[i][0] = 1; // sum=0 is always possible with empty set
 
-    // Build DP table
     for (int i = 1; i <= n; ++i)
     {
         for (int j = 1; j <= sum; ++j)
@@ -61,6 +46,28 @@ int countSubset(const std::vector<int> &arr, int sum)
     return dp[n][sum];
 }
 
+// ---------------------------
+// 2. 1D DP (Space Optimized)
+// ---------------------------
+int countSubset_optimized(const std::vector<int> &arr, int sum)
+{
+    std::vector<int> dp(sum + 1, 0);
+    dp[0] = 1; // sum=0 possible by empty set
+
+    for (int num : arr)
+    {
+        // Traverse backwards to avoid overwriting results
+        for (int j = sum; j >= num; --j)
+        {
+            dp[j] += dp[j - num];
+        }
+    }
+    return dp[sum];
+}
+
+// ---------------------------
+// Main Function
+// ---------------------------
 int main()
 {
     int n, sum;
@@ -72,8 +79,9 @@ int main()
     for (int i = 0; i < n; ++i)
         std::cin >> arr[i];
 
-    std::cout << "Number of subsets with sum " << sum << " = "
-              << countSubset(arr, sum) << std::endl;
+    std::cout << "\n--- Results ---\n";
+    std::cout << "2D DP Approach:   " << countSubset(arr, sum) << std::endl;
+    std::cout << "1D Optimized DP:  " << countSubset_optimized(arr, sum) << std::endl;
 
     return 0;
 }
