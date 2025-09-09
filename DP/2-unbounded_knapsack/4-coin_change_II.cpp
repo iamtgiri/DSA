@@ -4,33 +4,33 @@
 using namespace std;
 
 /*
-Coin Change II Problem
-----------------------
-You are given:
-- An array coins[] representing distinct coin denominations.
-- An integer amount (target sum).
+    Coin Change II Problem
+    ----------------------
+    You are given:
+    - An array coins[] representing distinct coin denominations.
+    - An integer amount (target sum).
 
-Task:
-Find the minimum number of coins required to make up the amount.
-If it is not possible, return -1.
-- Each coin can be used unlimited times.
-- Order does not matter.
+    Task:
+    Find the minimum number of coins required to make up the amount.
+    If it is not possible, return -1.
+    - Each coin can be used unlimited times.
+    - Order does not matter.
 
-Examples:
----------
-Input:
-coins = [1, 2, 5], amount = 11
-Output: 3
-Explanation: 5 + 5 + 1 = 3 coins
+    Examples:
+    ---------
+    Input:
+    coins = [1, 2, 5], amount = 11
+    Output: 3
+    Explanation: 5 + 5 + 1 = 3 coins
 
-Input:
-coins = [2], amount = 3
-Output: -1 (cannot make 3 with only coin 2)
+    Input:
+    coins = [2], amount = 3
+    Output: -1 (cannot make 3 with only coin 2)
 
-This is again an Unbounded Knapsack variation:
-- "weights" = coins[]
-- "capacity" = amount
-- Instead of counting ways, we minimize the number of coins.
+    This is again an Unbounded Knapsack variation:
+    - "weights" = coins[]
+    - "capacity" = amount
+    - Instead of counting ways, we minimize the number of coins.
 */
 
 /* ---------------------------------------------------
