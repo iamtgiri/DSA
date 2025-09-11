@@ -1,5 +1,6 @@
 # Ignore binaries
 *.exe
-*.out
-*.o
-/build/
+*.bat
+.vscode/
+Tools/
+docs/

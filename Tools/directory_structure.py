@@ -22,7 +22,7 @@ def print_directory_structure(path, file, indent=""):
 if __name__ == "__main__":
     root_dir = "E:/myWorkPlace/DSA"  # Change this to any path you want to scan
 
-    output_file = "directory_structure.txt"
+    output_file = "E:/myWorkPlace/DSA/docs/directory_structure.txt"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f"Directory structure of: {os.path.abspath(root_dir)}\n\n")
         print_directory_structure(root_dir, f)
