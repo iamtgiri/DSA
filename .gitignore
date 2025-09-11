@@ -1,2 +1,5 @@
-.vscode/
+# Ignore binaries
 *.exe
+*.out
+*.o
+/build/
