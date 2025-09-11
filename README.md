@@ -42,22 +42,22 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## DP
 
 
-### 0-1_knapsack
+### 0-1 Knapsack
 
-- [0-1 Knapsack](DP/0-1_knapsack/0-1_knapsack.cpp)
-- [Count Subset For Given Diff](DP/0-1_knapsack/count_subset_for_given_diff.cpp)
-- [Count Subset Sum](DP/0-1_knapsack/count_subset_sum.cpp)
-- [Equal Sum Subset](DP/0-1_knapsack/equal_sum_subset.cpp)
-- [Min Subset Sum Diff](DP/0-1_knapsack/min_subset_sum_diff.cpp)
-- [Subset Sum](DP/0-1_knapsack/subset_sum.cpp)
-- [Target Sum](DP/0-1_knapsack/target_sum.cpp)
+- [0-1 Knapsack](DP/0-1 Knapsack/0-1_knapsack.cpp)
+- [Count Subset For Given Diff](DP/0-1 Knapsack/count_subset_for_given_diff.cpp)
+- [Count Subset Sum](DP/0-1 Knapsack/count_subset_sum.cpp)
+- [Equal Sum Subset](DP/0-1 Knapsack/equal_sum_subset.cpp)
+- [Min Subset Sum Diff](DP/0-1 Knapsack/min_subset_sum_diff.cpp)
+- [Subset Sum](DP/0-1 Knapsack/subset_sum.cpp)
+- [Target Sum](DP/0-1 Knapsack/target_sum.cpp)
 
-### unbounded_knapsack
+### Unbounded Knapsack
 
-- [Coin Change I](DP/unbounded_knapsack/coin_change_i.cpp)
-- [Coin Change Ii](DP/unbounded_knapsack/coin_change_ii.cpp)
-- [Rod Cutting](DP/unbounded_knapsack/rod_cutting.cpp)
-- [Unbounded Knapsack](DP/unbounded_knapsack/unbounded_knapsack.cpp)
+- [Coin Change I](DP/Unbounded Knapsack/coin_change_i.cpp)
+- [Coin Change Ii](DP/Unbounded Knapsack/coin_change_ii.cpp)
+- [Rod Cutting](DP/Unbounded Knapsack/rod_cutting.cpp)
+- [Unbounded Knapsack](DP/Unbounded Knapsack/unbounded_knapsack.cpp)
 
 ## Graphs
 
