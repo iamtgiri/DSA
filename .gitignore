@@ -1,6 +1,10 @@
 # Ignore binaries
 *.exe
 *.bat
+
+# IDE/editor folders
 .vscode/
+
+# Tools and docs folders
 Tools/
 docs/
