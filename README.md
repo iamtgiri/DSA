@@ -1,7 +1,18 @@
 # Data Structures and Algorithms (DSA) Repo
 
-This repository contains solutions to various DSA problems categorized by topic.
+This repository contains my practice code for **Data Structures and Algorithms (DSA)**.  
+It includes solutions to common problems, algorithm implementations and various coding exercises to improve problem-solving skills.
 
+---
+
+## Languages
+
+- Primarily **C++**
+- May include other languages (**Python**) occasionally
+
+---
+
+## Problems List
 ## Arrays
 
 
@@ -78,3 +89,8 @@ This repository contains solutions to various DSA problems categorized by topic.
 ## Trees
 
 
+
+---
+## Contribution
+This is primarily a personal practice repo, but contributions are welcome! Feel free to submit issues or pull requests for improvements.
+Happy coding!
