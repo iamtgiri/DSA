@@ -1,6 +1,7 @@
 # Data Structures and Algorithms (DSA)
 
 This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations and various coding exercises to improve problem-solving skills.
+    
 ---
 
 ## Problems List
