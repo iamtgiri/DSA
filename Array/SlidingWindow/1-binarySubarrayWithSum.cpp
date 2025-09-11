@@ -1,5 +1,5 @@
 /*
-File: binarySubarrayWithSum.cpp
+File: 1-binarySubarrayWithSum.cpp
 Date: 2025-09-09 17:51
 
 Problem: Binary Subarrays With Sum
@@ -28,7 +28,7 @@ Problem Statement:
 💡 Key Pattern:
 - Sliding Window (only works efficiently because array is binary: 0/1)
 
-Keywords:
+ℹ️ Keywords:
 - Sliding window, prefix sum, subarray counting
 
 🗒️ Notes:
