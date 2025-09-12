@@ -1,10 +1,6 @@
-<h4 align="center"> Last Updated: 12-09-2025 16:58</h4>
+<h4 align="center"> Last Updated: 12-09-2025 17:00</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
-
-![GitHub Repo size](https://img.shields.io/github/repo-size/iamtgiri/DSA)
-![GitHub last commit](https://img.shields.io/github/last-commit/iamtgiri/DSA)
-![GitHub Repo stars](https://img.shields.io/github/stars/iamtgiri/DSA?style=social)
 
 This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations and various coding exercises to improve problem-solving skills.
 
@@ -88,6 +84,4 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ---
 
-This is primarily a personal practice repo, but contributions are welcome! Feel free to submit issues or pull requests for improvements. 
-
-Happy coding!
+This is primarily a personal practice repo, but contributions are welcome! Feel free to submit issues or pull requests for improvements. Happy coding!
