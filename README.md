@@ -9,7 +9,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## $\blacksquare$ Arrays
 
 
-### $\bullet$ Binary Search
+### $\circ$ Binary Search
 
 - [Allocate Books](Arrays/Binary_Search/allocate_books.cpp)
 - [Binary Search](Arrays/Binary_Search/binary_search.cpp)
@@ -17,20 +17,20 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Median Of 2 Sorted Array](Arrays/Binary_Search/median_of_2_sorted_array.cpp)
 - [Vote Counting](Arrays/Binary_Search/vote_counting.cpp)
 
-### $\bullet$ Divide And Conquer
+### $\circ$ Divide And Conquer
 
 - [Stable Partition](Arrays/Divide_And_Conquer/stable_partition.cpp)
 
-### $\bullet$ Sliding Window
+### $\circ$ Sliding Window
 
 - [Binary Subarray With Sum](Arrays/Sliding_Window/binary_subarray_with_sum.cpp)
 - [Min Swap One](Arrays/Sliding_Window/min_swap_one.cpp)
 
-### $\bullet$ Sorting
+### $\circ$ Sorting
 
 - [Radix Sort](Arrays/Sorting/radix_sort.cpp)
 
-### $\bullet$ Two Pointers
+### $\circ$ Two Pointers
 
 - [Min Swap](Arrays/Two_Pointers/min_swap.cpp)
 - [Minimum Window Substring](Arrays/Two_Pointers/minimum_window_substring.cpp)
@@ -39,7 +39,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## $\blacksquare$ DP
 
 
-### $\bullet$ 0-1 Knapsack
+### $\circ$ 0-1 Knapsack
 
 - [0-1 Knapsack](DP/0-1_Knapsack/0-1_knapsack.cpp)
 - [Count Subset For Given Diff](DP/0-1_Knapsack/count_subset_for_given_diff.cpp)
@@ -49,11 +49,11 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Subset Sum](DP/0-1_Knapsack/subset_sum.cpp)
 - [Target Sum](DP/0-1_Knapsack/target_sum.cpp)
 
-### $\bullet$ Longest Common Subsequence
+### $\circ$ Longest Common Subsequence
 
 - [Longest Common Subsequence](DP/Longest_Common_Subsequence/longest_common_subsequence.cpp)
 
-### $\bullet$ Unbounded Knapsack
+### $\circ$ Unbounded Knapsack
 
 - [Coin Change I](DP/Unbounded_Knapsack/coin_change_i.cpp)
 - [Coin Change Ii](DP/Unbounded_Knapsack/coin_change_ii.cpp)
