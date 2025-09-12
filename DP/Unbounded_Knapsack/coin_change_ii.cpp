@@ -33,7 +33,7 @@ Input:
 coins = [2], amount = 3
 Output: -1 (cannot make 3 with only coin 2)
 
-This is an **Unbounded Knapsack** variation:
+This is an **Unbounded Knapsack** variant:
 - "weights" = coins[]
 - "capacity" = amount
 - Instead of counting ways, we minimize the number of coins.
@@ -60,9 +60,8 @@ This is an **Unbounded Knapsack** variation:
 - Time complexity: O(n * amount)
 - Space complexity: O(amount)
 
-💡 Key Pattern:
-- This is the **minimization version of unbounded knapsack**.
-- Transition: dp[j] = min(dp[j], 1 + dp[j - coin])
+💡 Key Transition:
+dp[i][j] = min(dp[i - 1][j], 1 + dp[i][j - coin])
 
 Keywords:
 - Coin Change
@@ -74,13 +73,16 @@ Keywords:
 /* ---------------------------------------------------
    1. Recursive (Exponential Time)
 --------------------------------------------------- */
-int coinChangeRec(vector<int>& coins, int n, int amount) {
-    if (amount == 0) return 0;               // no coins needed
-    if (n == 0) return INT_MAX - 1;          // impossible
+int coinChangeRec(vector<int> &coins, int n, int amount)
+{
+    if (amount == 0)
+        return 0; // exact amount achieved
+    if (n == 0)
+        return INT_MAX - 1; // no coins left
 
-    if (coins[n - 1] <= amount) {
-        // Option 1: take coin[n-1] (stay at same index)
-        // Option 2: skip coin[n-1]
+    if (coins[n - 1] <= amount)
+    {
+        // Take coin[n-1] (stay at same index) OR skip it
         return min(1 + coinChangeRec(coins, n, amount - coins[n - 1]),
                    coinChangeRec(coins, n - 1, amount));
     }
@@ -90,22 +92,30 @@ int coinChangeRec(vector<int>& coins, int n, int amount) {
 /* ---------------------------------------------------
    2. Memoization (Top-Down DP)
 --------------------------------------------------- */
-int coinChangeMemoHelper(vector<int>& coins, int n, int amount, vector<vector<int>>& dp) {
-    if (amount == 0) return 0;
-    if (n == 0) return INT_MAX - 1;
+int coinChangeMemoHelper(vector<int> &coins, int n, int amount, vector<vector<int>> &dp)
+{
+    if (amount == 0)
+        return 0;
+    if (n == 0)
+        return INT_MAX - 1;
 
-    if (dp[n][amount] != -1) return dp[n][amount];
+    if (dp[n][amount] != -1)
+        return dp[n][amount];
 
-    if (coins[n - 1] <= amount) {
+    if (coins[n - 1] <= amount)
+    {
         dp[n][amount] = min(1 + coinChangeMemoHelper(coins, n, amount - coins[n - 1], dp),
                             coinChangeMemoHelper(coins, n - 1, amount, dp));
-    } else {
+    }
+    else
+    {
         dp[n][amount] = coinChangeMemoHelper(coins, n - 1, amount, dp);
     }
     return dp[n][amount];
 }
 
-int coinChangeMemo(vector<int>& coins, int amount) {
+int coinChangeMemo(vector<int> &coins, int amount)
+{
     int n = coins.size();
     vector<vector<int>> dp(n + 1, vector<int>(amount + 1, -1));
     int result = coinChangeMemoHelper(coins, n, amount, dp);
@@ -115,17 +125,53 @@ int coinChangeMemo(vector<int>& coins, int amount) {
 /* ---------------------------------------------------
    3. Tabulation (Bottom-Up 2D DP)
 --------------------------------------------------- */
-int coinChangeTabulation(vector<int>& coins, int amount) {
+int coinChangeTabulation(vector<int> &coins, int amount)
+{
     int n = coins.size();
     vector<vector<int>> dp(n + 1, vector<int>(amount + 1, INT_MAX - 1));
 
-    for (int i = 0; i <= n; i++) dp[i][0] = 0; // 0 coins needed for amount 0
+    for (int i = 0; i <= n; i++)
+        dp[i][0] = 0; // base: 0 coins needed for amount 0
 
-    for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= amount; j++) {
-            if (coins[i - 1] <= j) {
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= amount; j++)
+        {
+            if (coins[i - 1] <= j)
+            {
                 dp[i][j] = min(dp[i - 1][j], 1 + dp[i][j - coins[i - 1]]);
-            } else {
+            }
+            else
+            {
+                dp[i][j] = dp[i - 1][j];
+            }
+        }
+    }
+    return (dp[n][amount] >= INT_MAX - 1 ? -1 : dp[n][amount]);
+}
+
+/* ---------------------------------------------------
+   3a. Alternative Tabulation (UBKS style)
+--------------------------------------------------- */
+int coinChangeUBKS(vector<int> &coins, int amount)
+{
+    int n = coins.size();
+    vector<vector<int>> dp(n + 1, vector<int>(amount + 1, INT_MAX - 1));
+
+    for (int i = 0; i <= n; i++)
+        dp[i][0] = 0; // base: 0 coins needed for 0 amount
+
+    for (int i = 1; i <= n; ++i)
+    {
+        for (int j = 1; j <= amount; ++j)
+        {
+            if (coins[i - 1] <= j)
+            {
+                // Include coin[i-1] (stay at i → unbounded) OR exclude it
+                dp[i][j] = min(dp[i - 1][j], 1 + dp[i][j - coins[i - 1]]);
+            }
+            else
+            {
                 dp[i][j] = dp[i - 1][j];
             }
         }
@@ -136,12 +182,15 @@ int coinChangeTabulation(vector<int>& coins, int amount) {
 /* ---------------------------------------------------
    4. Space Optimized (Bottom-Up 1D DP)
 --------------------------------------------------- */
-int coinChangeOptimized(vector<int>& coins, int amount) {
+int coinChangeOptimized(vector<int> &coins, int amount)
+{
     vector<int> dp(amount + 1, INT_MAX - 1);
     dp[0] = 0;
 
-    for (int coin : coins) {
-        for (int j = coin; j <= amount; j++) {
+    for (int coin : coins)
+    {
+        for (int j = coin; j <= amount; j++)
+        {
             dp[j] = min(dp[j], 1 + dp[j - coin]);
         }
     }
@@ -149,22 +198,29 @@ int coinChangeOptimized(vector<int>& coins, int amount) {
 }
 
 /* ---------------------------------------------------
-   Main Function
+   Utility
 --------------------------------------------------- */
-int safeResult(int res) {
+int safeResult(int res)
+{
     return (res >= INT_MAX - 1 ? -1 : res);
 }
 
-int main() {
+/* ---------------------------------------------------
+   Main Function
+--------------------------------------------------- */
+int main()
+{
     int n, amount;
     cin >> n >> amount;
     vector<int> coins(n);
-    for (int i = 0; i < n; i++) cin >> coins[i];
+    for (int i = 0; i < n; i++)
+        cin >> coins[i];
 
-    cout << "Recursive: "   << safeResult(coinChangeRec(coins, n, amount)) << "\n";
+    cout << "Recursive: " << safeResult(coinChangeRec(coins, n, amount)) << "\n";
     cout << "Memoization: " << coinChangeMemo(coins, amount) << "\n";
-    cout << "Tabulation: "  << coinChangeTabulation(coins, amount) << "\n";
-    cout << "Optimized: "   << coinChangeOptimized(coins, amount) << "\n";
+    cout << "Tabulation: " << coinChangeTabulation(coins, amount) << "\n";
+    cout << "UBKS Style: " << coinChangeUBKS(coins, amount) << "\n";
+    cout << "Optimized: " << coinChangeOptimized(coins, amount) << "\n";
 
     return 0;
 }
