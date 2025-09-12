@@ -4,49 +4,87 @@
 using namespace std;
 
 /*
-    Coin Change II Problem
-    ----------------------
-    You are given:
-    - An array coins[] representing distinct coin denominations.
-    - An integer amount (target sum).
+File: coin_change_ii.cpp
+Date: 2025-09-12 10:08
 
-    Task:
-    Find the minimum number of coins required to make up the amount.
-    If it is not possible, return -1.
-    - Each coin can be used unlimited times.
-    - Order does not matter.
+Problem: Coin Change II
+Link: URL
 
-    Examples:
-    ---------
-    Input:
-    coins = [1, 2, 5], amount = 11
-    Output: 3
-    Explanation: 5 + 5 + 1 = 3 coins
+Problem Statement:
+------------------
+You are given:
+- An array coins[] representing distinct coin denominations.
+- An integer amount (target sum).
 
-    Input:
-    coins = [2], amount = 3
-    Output: -1 (cannot make 3 with only coin 2)
+Task:
+Find the minimum number of coins required to make up the amount.
+If it is not possible, return -1.
+- Each coin can be used unlimited times.
+- Order does not matter.
 
-    This is again an Unbounded Knapsack variation:
-    - "weights" = coins[]
-    - "capacity" = amount
-    - Instead of counting ways, we minimize the number of coins.
+Examples:
+---------
+Input:
+coins = [1, 2, 5], amount = 11
+Output: 3
+Explanation: 5 + 5 + 1 = 3 coins
+
+Input:
+coins = [2], amount = 3
+Output: -1 (cannot make 3 with only coin 2)
+
+This is an **Unbounded Knapsack** variation:
+- "weights" = coins[]
+- "capacity" = amount
+- Instead of counting ways, we minimize the number of coins.
+
+-------------------------------------------------
+❌ Brute Force (Recursion)
+- Idea: At each step, either take the current coin or skip it.
+- Time complexity: O(2^n * amount) [Exponential]
+- Space complexity: O(amount) recursion depth
+- Limitations: Extremely slow for larger amounts.
+
+✅ Memoization (Top-Down DP)
+- Idea: Cache results for (n, amount) states to avoid recomputation.
+- Time complexity: O(n * amount)
+- Space complexity: O(n * amount) + recursion stack
+
+✅ Tabulation (Bottom-Up 2D DP)
+- Idea: Iteratively fill dp[i][j] = min coins using first i coins to form sum j.
+- Time complexity: O(n * amount)
+- Space complexity: O(n * amount)
+
+✅ Space Optimized (Bottom-Up 1D DP)
+- Idea: Reduce 2D table to 1D since only current row matters.
+- Time complexity: O(n * amount)
+- Space complexity: O(amount)
+
+💡 Key Pattern:
+- This is the **minimization version of unbounded knapsack**.
+- Transition: dp[j] = min(dp[j], 1 + dp[j - coin])
+
+Keywords:
+- Coin Change
+- Dynamic Programming
+- Unbounded Knapsack
+-------------------------------------------------
 */
 
 /* ---------------------------------------------------
    1. Recursive (Exponential Time)
 --------------------------------------------------- */
 int coinChangeRec(vector<int>& coins, int n, int amount) {
-    if (amount == 0) return 0;
-    if (n == 0) return INT_MAX - 1; // impossible
+    if (amount == 0) return 0;               // no coins needed
+    if (n == 0) return INT_MAX - 1;          // impossible
 
     if (coins[n - 1] <= amount) {
-        // take coin OR skip coin
+        // Option 1: take coin[n-1] (stay at same index)
+        // Option 2: skip coin[n-1]
         return min(1 + coinChangeRec(coins, n, amount - coins[n - 1]),
                    coinChangeRec(coins, n - 1, amount));
-    } else {
-        return coinChangeRec(coins, n - 1, amount);
     }
+    return coinChangeRec(coins, n - 1, amount);
 }
 
 /* ---------------------------------------------------
@@ -64,7 +102,6 @@ int coinChangeMemoHelper(vector<int>& coins, int n, int amount, vector<vector<in
     } else {
         dp[n][amount] = coinChangeMemoHelper(coins, n - 1, amount, dp);
     }
-
     return dp[n][amount];
 }
 
@@ -93,7 +130,6 @@ int coinChangeTabulation(vector<int>& coins, int amount) {
             }
         }
     }
-
     return (dp[n][amount] >= INT_MAX - 1 ? -1 : dp[n][amount]);
 }
 
@@ -109,25 +145,26 @@ int coinChangeOptimized(vector<int>& coins, int amount) {
             dp[j] = min(dp[j], 1 + dp[j - coin]);
         }
     }
-
     return (dp[amount] >= INT_MAX - 1 ? -1 : dp[amount]);
 }
 
 /* ---------------------------------------------------
    Main Function
 --------------------------------------------------- */
+int safeResult(int res) {
+    return (res >= INT_MAX - 1 ? -1 : res);
+}
+
 int main() {
     int n, amount;
     cin >> n >> amount;
     vector<int> coins(n);
     for (int i = 0; i < n; i++) cin >> coins[i];
 
-    cout << "Recursive: " 
-         << (coinChangeRec(coins, n, amount) >= INT_MAX - 1 ? -1 : coinChangeRec(coins, n, amount)) 
-         << endl;
-    cout << "Memoization: " << coinChangeMemo(coins, amount) << endl;
-    cout << "Tabulation: " << coinChangeTabulation(coins, amount) << endl;
-    cout << "Optimized: " << coinChangeOptimized(coins, amount) << endl;
+    cout << "Recursive: "   << safeResult(coinChangeRec(coins, n, amount)) << "\n";
+    cout << "Memoization: " << coinChangeMemo(coins, amount) << "\n";
+    cout << "Tabulation: "  << coinChangeTabulation(coins, amount) << "\n";
+    cout << "Optimized: "   << coinChangeOptimized(coins, amount) << "\n";
 
     return 0;
 }
