@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 12-09-2025 17:00</h4>
+<h4 align="center"> Last Updated: 12-09-2025 20:45</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -52,6 +52,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ### $\bigcirc$ Longest Common Subsequence
 
 - [Longest Common Subsequence](DP/Longest_Common_Subsequence/longest_common_subsequence.cpp)
+- [Longest Common Substring](DP/Longest_Common_Subsequence/longest_common_substring.cpp)
+- [Print Longest Common Substring](DP/Longest_Common_Subsequence/print_longest_common_substring.cpp)
 
 ### $\bigcirc$ Unbounded Knapsack
 
