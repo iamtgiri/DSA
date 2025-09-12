@@ -1,3 +1,5 @@
+<h4 align="center"> Last Updated: 12-09-2025 16:49</h4>
+
 # Data Structures and Algorithms (DSA)
 
 This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations and various coding exercises to improve problem-solving skills.
