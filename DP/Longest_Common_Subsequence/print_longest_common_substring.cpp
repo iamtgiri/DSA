@@ -54,7 +54,7 @@ using namespace std;
 class Solution
 {
 public:
-    string print_longest_common_substring(const string &X, const string &Y)
+    string get_longest_common_substring(const string &X, const string &Y)
     {
         int n = X.size(), m = Y.size();
         vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
@@ -95,7 +95,7 @@ int main()
     string X = "abcdxyz";
     string Y = "xyzabcd";
 
-    string substr = sol.print_longest_common_substring(X, Y);
+    string substr = sol.get_longest_common_substring(X, Y);
     if (substr != "")
         cout << "Longest Common Substring: " << substr << "\n";
     else
