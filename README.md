@@ -6,7 +6,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 # ※ Problems List
 
-## ⦿ Arrays
+## ■ Arrays
 
 
 ### ♦ Binary Search
@@ -36,7 +36,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Minimum Window Substring](Arrays/Two_Pointers/minimum_window_substring.cpp)
 - [Next Permutation](Arrays/Two_Pointers/next_permutation.cpp)
 
-## ⦿ DP
+## ■ DP
 
 
 ### ♦ 0-1 Knapsack
@@ -76,26 +76,26 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Rod Cutting](DP/Unbounded_Knapsack/rod_cutting.cpp)
 - [Unbounded Knapsack](DP/Unbounded_Knapsack/unbounded_knapsack.cpp)
 
-## ⦿ Graphs
+## ■ Graphs
 
 
-## ⦿ Greedy
+## ■ Greedy
 
 
-## ⦿ Heap
+## ■ Heap
 
 - [K Max Sum Combinations](Heap/k_max_sum_combinations.cpp)
 - [Max Heap](Heap/max_heap.cpp)
 - [Max Sum With K Swaps](Heap/max_sum_with_k_swaps.cpp)
 - [Median Stream](Heap/median_stream.cpp)
 
-## ⦿ Math
+## ■ Math
 
 
-## ⦿ Strings
+## ■ Strings
 
 
-## ⦿ Trees
+## ■ Trees
 
 ---
 
