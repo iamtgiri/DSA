@@ -1,5 +1,5 @@
 /*
-File: subsequence_pattern_matching.cpp
+File: check_if_X_subsequence_of_Y.cpp
 Date: 2025-09-14 22:07
 
 Problem: Check if one string is a subsequence of another
