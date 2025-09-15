@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 14-09-2025 01:37</h4>
+<h4 align="center"> Last Updated: 15-09-2025 13:04</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -51,11 +51,18 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ### $\bigcirc$ Longest Common Subsequence
 
+- [A Subsequence Of B](DP/Longest_Common_Subsequence/a_subsequence_of_b.cpp)
 - [Length Of Longest Common Subsequence](DP/Longest_Common_Subsequence/length_of_longest_common_subsequence.cpp)
 - [Length Of Longest Common Substring](DP/Longest_Common_Subsequence/length_of_longest_common_substring.cpp)
+- [Length Of Longest Palindromic Subsequence](DP/Longest_Common_Subsequence/length_of_longest_palindromic_subsequence.cpp)
+- [Length Of Longest Palindromic Substring](DP/Longest_Common_Subsequence/length_of_longest_palindromic_substring.cpp)
+- [Length Of Longest Repeating Subsequence](DP/Longest_Common_Subsequence/length_of_longest_repeating_subsequence.cpp)
 - [Length Of Shortest Common Supersequence](DP/Longest_Common_Subsequence/length_of_shortest_common_supersequence.cpp)
+- [Max Number Insertions Deletions To Convert A To B](DP/Longest_Common_Subsequence/max_number_insertions_deletions_to_convert_a_to_b.cpp)
+- [Min Deletion To Make Palindrom](DP/Longest_Common_Subsequence/min_deletion_to_make_palindrom.cpp)
 - [Print Longest Common Subsequence](DP/Longest_Common_Subsequence/print_longest_common_subsequence.cpp)
 - [Print Longest Common Substring](DP/Longest_Common_Subsequence/print_longest_common_substring.cpp)
+- [Print Shortest Common Supersequence](DP/Longest_Common_Subsequence/print_shortest_common_supersequence.cpp)
 
 ### $\bigcirc$ Unbounded Knapsack
 
