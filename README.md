@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 15-09-2025 13:12</h4>
+<h4 align="center"> Last Updated: 15-09-2025 13:19</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -59,7 +59,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Length Of Longest Repeating Subsequence](DP/Longest_Common_Subsequence/length_of_longest_repeating_subsequence.cpp)
 - [Length Of Shortest Common Supersequence](DP/Longest_Common_Subsequence/length_of_shortest_common_supersequence.cpp)
 - [Max Number Insertions Deletions To Convert X To Y](DP/Longest_Common_Subsequence/max_number_insertions_deletions_to_convert_X_to_Y.cpp)
-- [Min Deletion To Make Palindrom](DP/Longest_Common_Subsequence/min_deletion_to_make_palindrom.cpp)
+- [Min Deletion To Make Palindrome](DP/Longest_Common_Subsequence/min_deletion_to_make_palindrome.cpp)
+- [Min Insertion To Make Palindrome](DP/Longest_Common_Subsequence/min_insertion_to_make_palindrome.cpp)
 - [Print Longest Common Subsequence](DP/Longest_Common_Subsequence/print_longest_common_subsequence.cpp)
 - [Print Longest Common Substring](DP/Longest_Common_Subsequence/print_longest_common_substring.cpp)
 - [Print Shortest Common Supersequence](DP/Longest_Common_Subsequence/print_shortest_common_supersequence.cpp)
