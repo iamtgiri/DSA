@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 15-09-2025 13:32</h4>
+<h4 align="center"> Last Updated: 15-09-2025 13:35</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -76,27 +76,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Rod Cutting](DP/Unbounded_Knapsack/rod_cutting.cpp)
 - [Unbounded Knapsack](DP/Unbounded_Knapsack/unbounded_knapsack.cpp)
 
-## ■ Graphs
-
-
-## ■ Greedy
-
-
 ## ■ Heap
 
 - [K Max Sum Combinations](Heap/k_max_sum_combinations.cpp)
 - [Max Heap](Heap/max_heap.cpp)
 - [Max Sum With K Swaps](Heap/max_sum_with_k_swaps.cpp)
 - [Median Stream](Heap/median_stream.cpp)
-
-## ■ Math
-
-
-## ■ Strings
-
-
-## ■ Trees
-
 ---
 
 This is primarily a personal practice repo, but contributions are welcome! Feel free to submit issues or pull requests for improvements. Happy coding!
