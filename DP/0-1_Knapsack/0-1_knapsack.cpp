@@ -1,4 +1,7 @@
 /*
+Problem: 0-1 Knapsack
+Link: URL
+
 Problem Statement:
 ------------------
 Given weights[] and values[] of n items, and a maximum capacity W, 
