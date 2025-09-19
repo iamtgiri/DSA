@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 20-09-2025 00:39</h4>
+<h4 align="center"> Last Updated: 20-09-2025 00:44</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -104,9 +104,15 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## ■ Trees
 
 
+---
 
-> Total 47 problems solved so far.
+## 📊 Summary
+- **Total Problems Solved:** 47
 
 ---
+
 # ※ Contributing
-This is primarily a personal practice repo, but contributions are welcome! Feel free to submit issues or pull requests for improvements. Happy coding!
+This repository is primarily for personal practice, but contributions are always welcome!  
+Feel free to open issues or submit pull requests with improvements, suggestions or new problem solutions.  
+
+Happy Coding! 🚀
