@@ -1,15 +1,36 @@
-<h4 align="center"> Last Updated: 20-09-2025 00:48</h4>
+<h4 align="center">Last Updated: 20-09-2025 01:04</h4>
 
-<h1 align="center">Data Structures and Algorithms (DSA)</h1>
+<h1 align="center">🚀 Data Structures and Algorithms (DSA)</h1>
 
-This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations and various coding exercises to improve problem-solving skills.
 
-# ※ Problems List
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/iamtgiri/DSA?style=for-the-badge" />
+</p>
+
+This repository contains my practice code for **Data Structures and Algorithms (DSA)**.  
+It includes solutions to common problems, algorithm implementations, and coding exercises to sharpen problem-solving skills.
+
+---
+## 📂 Categories
+- [Arrays](#-arrays)
+- [DP](#-dp)
+- [Graphs](#-graphs)
+- [Greedy](#-greedy)
+- [Heap](#-heap)
+- [Strings](#-strings)
+- [Trees](#-trees)
+
+---
+## ※ Problems List
 
 ## ■ Arrays
+<details>
+  <summary>Click to expand</summary>
 
 
-### ○ Binary Search
+#### 📂 Binary Search
 
 - [Allocate Books](Arrays/Binary_Search/allocate_books.cpp)
 - [Binary Search](Arrays/Binary_Search/binary_search.cpp)
@@ -17,29 +38,33 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Median Of 2 Sorted Array](Arrays/Binary_Search/median_of_2_sorted_array.cpp)
 - [Vote Counting](Arrays/Binary_Search/vote_counting.cpp)
 
-### ○ Divide And Conquer
+#### 📂 Divide And Conquer
 
 - [Stable Partition](Arrays/Divide_And_Conquer/stable_partition.cpp)
 
-### ○ Sliding Window
+#### 📂 Sliding Window
 
 - [Binary Subarray With Sum](Arrays/Sliding_Window/binary_subarray_with_sum.cpp)
 - [Min Swap One](Arrays/Sliding_Window/min_swap_one.cpp)
 
-### ○ Sorting
+#### 📂 Sorting
 
 - [Radix Sort](Arrays/Sorting/radix_sort.cpp)
 
-### ○ Two Pointers
+#### 📂 Two Pointers
 
 - [Min Swap](Arrays/Two_Pointers/min_swap.cpp)
 - [Minimum Window Substring](Arrays/Two_Pointers/minimum_window_substring.cpp)
 - [Next Permutation](Arrays/Two_Pointers/next_permutation.cpp)
 
+</details>
+
 ## ■ DP
+<details>
+  <summary>Click to expand</summary>
 
 
-### ○ 0-1 Knapsack
+#### 📂 0-1 Knapsack
 
 - [0-1 Knapsack](DP/0-1_Knapsack/0-1_knapsack.cpp)
 - [Count Subset For Given Diff](DP/0-1_Knapsack/count_subset_for_given_diff.cpp)
@@ -49,7 +74,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Subset Sum](DP/0-1_Knapsack/subset_sum.cpp)
 - [Target Sum](DP/0-1_Knapsack/target_sum.cpp)
 
-### ○ Longest Common Subsequence
+#### 📂 Longest Common Subsequence
 
 - [Assign Cookies](DP/Longest_Common_Subsequence/Assign_Cookies.cpp)
 - [Check If X Subsequence Of Y](DP/Longest_Common_Subsequence/check_if_X_subsequence_of_Y.cpp)
@@ -66,17 +91,17 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Print Longest Common Substring](DP/Longest_Common_Subsequence/print_longest_common_substring.cpp)
 - [Print Shortest Common Supersequence](DP/Longest_Common_Subsequence/print_shortest_common_supersequence.cpp)
 
-### ○ Matrix Chain Multiplication
+#### 📂 Matrix Chain Multiplication
 
 - [Maxtrix Chain Multiplication](DP/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
 - [Evaluate Expression To True](DP/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
 - [Palindrome Partitioning](DP/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
 
-### ○ Others
+#### 📂 Others
 
 - [Ninja Training](DP/Others/Ninja_Training.cpp)
 
-### ○ Unbounded Knapsack
+#### 📂 Unbounded Knapsack
 
 - [Coin Change I](DP/Unbounded_Knapsack/coin_change_i.cpp)
 - [Coin Change Ii](DP/Unbounded_Knapsack/coin_change_ii.cpp)
@@ -84,35 +109,80 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Rod Cutting](DP/Unbounded_Knapsack/rod_cutting.cpp)
 - [Unbounded Knapsack](DP/Unbounded_Knapsack/unbounded_knapsack.cpp)
 
-## ■ Graphs
+</details>
 
+## ■ Graphs
+<details>
+  <summary>Click to expand</summary>
+
+
+</details>
 
 ## ■ Greedy
+<details>
+  <summary>Click to expand</summary>
 
 - [Assign Cookies](Greedy/Assign_Cookies.cpp)
 
+</details>
+
 ## ■ Heap
+<details>
+  <summary>Click to expand</summary>
 
 - [K Max Sum Combinations](Heap/k_max_sum_combinations.cpp)
 - [Max Heap](Heap/max_heap.cpp)
 - [Max Sum With K Swaps](Heap/max_sum_with_k_swaps.cpp)
 - [Median Stream](Heap/median_stream.cpp)
 
-## ■ Strings
+</details>
 
+## ■ Strings
+<details>
+  <summary>Click to expand</summary>
+
+
+</details>
 
 ## ■ Trees
+<details>
+  <summary>Click to expand</summary>
 
+
+</details>
 
 ---
 
 ## 📊 Summary
+- **Arrays**: 12 problems  
+  `████████░░░░░░░░░░░░`
+- **DP**: 30 problems  
+  `████████████████████`
+- **Greedy**: 1 problems  
+  `░░░░░░░░░░░░░░░░░░░░`
+- **Heap**: 4 problems  
+  `██░░░░░░░░░░░░░░░░░░`
+
 - **Total Problems Solved:** 47
 
 ---
 
-# ※ Contributing
-This repository is primarily for personal practice, but contributions are always welcome!  
-Feel free to open issues or submit pull requests with improvements, suggestions or new problem solutions.  
+## ⚡ Getting Started
+1. Clone the repo  
+   ```bash
+    git clone https://github.com/iamtgiri/DSA.git
+    ```
 
-Happy Coding! 🚀
+2. Navigate to a category and compile a file
+
+   ```bash
+   g++ Arrays/two_sum.cpp -o two_sum && ./two_sum
+   ```
+
+---
+
+## 🤝 Contributing
+
+This repository is primarily for personal practice, but contributions are always welcome!
+Feel free to open issues or submit pull requests with improvements, suggestions, or new problem solutions.
+
