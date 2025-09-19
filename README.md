@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 20-09-2025 01:04</h4>
+<h4 align="center">Last Updated: 20-09-2025 01:06</h4>
 
 <h1 align="center">🚀 Data Structures and Algorithms (DSA)</h1>
 
@@ -167,21 +167,8 @@ It includes solutions to common problems, algorithm implementations, and coding 
 
 ---
 
-## ⚡ Getting Started
-1. Clone the repo  
-   ```bash
-    git clone https://github.com/iamtgiri/DSA.git
-    ```
 
-2. Navigate to a category and compile a file
-
-   ```bash
-   g++ Arrays/two_sum.cpp -o two_sum && ./two_sum
-   ```
-
----
-
-## 🤝 Contributing
+## ※ Contributing
 
 This repository is primarily for personal practice, but contributions are always welcome!
 Feel free to open issues or submit pull requests with improvements, suggestions, or new problem solutions.
