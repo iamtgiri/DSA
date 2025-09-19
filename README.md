@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 18-09-2025 17:48</h4>
+<h4 align="center"> Last Updated: 19-09-2025 19:06</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -68,6 +68,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ### ○ Matrix Chain Multiplication
 
 - [Maxtrix Chain Multiplication](DP/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
+- [Evaluate Expression To True](DP/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
 - [Palindrome Partitioning](DP/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
 
 ### ○ Unbounded Knapsack
