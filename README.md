@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 19-09-2025 19:06</h4>
+<h4 align="center"> Last Updated: 20-09-2025 00:32</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -51,6 +51,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ### ○ Longest Common Subsequence
 
+- [Assign Cookies](DP/Longest_Common_Subsequence/Assign_Cookies.cpp)
 - [Check If X Subsequence Of Y](DP/Longest_Common_Subsequence/check_if_X_subsequence_of_Y.cpp)
 - [Length Of Longest Common Subsequence](DP/Longest_Common_Subsequence/length_of_longest_common_subsequence.cpp)
 - [Length Of Longest Common Substring](DP/Longest_Common_Subsequence/length_of_longest_common_substring.cpp)
@@ -70,6 +71,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Maxtrix Chain Multiplication](DP/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
 - [Evaluate Expression To True](DP/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
 - [Palindrome Partitioning](DP/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
+
+### ○ Others
+
+- [Ninja Training](DP/Others/Ninja_Training.cpp)
 
 ### ○ Unbounded Knapsack
 
