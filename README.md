@@ -1,4 +1,4 @@
-<h4 align="center"> Last Updated: 20-09-2025 00:46</h4>
+<h4 align="center"> Last Updated: 20-09-2025 00:47</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -105,10 +105,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 
 
+---
 
 > **Total Problems Solved:** 47
-
----
 
 # ※ Contributing
 This repository is primarily for personal practice, but contributions are always welcome!  
