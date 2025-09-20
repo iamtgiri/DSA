@@ -63,14 +63,26 @@ def generate_readme():
     content = f"<h4 align=\"center\">Last Updated: {now}</h4>\n\n"
     content += "<h1 align=\"center\">Data Structures and Algorithms (DSA)</h1>\n\n"
     content += """
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/iamtgiri/DSA?style=for-the-badge" />
+<p align="center"> 
+  <!-- 🔹 Core repo info -->
+  <img src="https://img.shields.io/github/repo-size/iamtgiri/DSA?style=for-the-badge" />
   <img src="https://img.shields.io/github/languages/top/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/iamtgiri/DSA?style=for-the-badge" />
 </p>
 
-This repository contains my practice code for **Data Structures and Algorithms (DSA)**.  
-It includes solutions to common problems, algorithm implementations, and coding exercises to sharpen problem-solving skills.
+<p align="center"> 
+  <!-- 🔹 Social + Fun -->
+  <img src="https://img.shields.io/github/stars/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practice-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-In%20Progress-green?style=for-the-badge" />
+</p>
+
+
+This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations, and coding exercises to sharpen problem-solving skills.
 
 ---
 """
@@ -118,7 +130,7 @@ It includes solutions to common problems, algorithm implementations, and coding 
 ## ※ Contributing
 
 This repository is primarily for personal practice, but contributions are always welcome!
-Feel free to open issues or submit pull requests with improvements, suggestions, or new problem solutions.
+Feel free to open issues or submit pull requests with improvements, suggestions or new problem solutions.
 
 """
     content += footer
