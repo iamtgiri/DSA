@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 20-09-2025 11:32</h4>
+<h4 align="center">Last Updated: 20-09-2025 11:34</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -77,7 +77,7 @@ It includes solutions to common problems, algorithm implementations, and coding 
 #### 📂 2D 3D Grids
 
 - [Grid Unique Paths](DP/2D_3D_Grids/Grid_Unique_Paths.cpp)
-- [Grid Unique Paths Ii](DP/2D_3D_Grids/Grid_Unique_Paths_II.cpp)
+- [Grid Unique Paths 2](DP/2D_3D_Grids/Grid_Unique_Paths_2.cpp)
 - [Minimum Path Sum](DP/2D_3D_Grids/Minimum_Path_Sum.cpp)
 - [Minimum Path Sum In Triangular Grid](DP/2D_3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
 - [Ninja Training](DP/2D_3D_Grids/Ninja_Training.cpp)
@@ -107,8 +107,8 @@ It includes solutions to common problems, algorithm implementations, and coding 
 
 #### 📂 Unbounded Knapsack
 
-- [Coin Change I](DP/Unbounded_Knapsack/coin_change_i.cpp)
-- [Coin Change Ii](DP/Unbounded_Knapsack/coin_change_ii.cpp)
+- [Coin Change 1](DP/Unbounded_Knapsack/coin_change_1.cpp)
+- [Coin Change 2](DP/Unbounded_Knapsack/coin_change_2.cpp)
 - [Maximum Ribbon Cut](DP/Unbounded_Knapsack/maximum_ribbon_cut.cpp)
 - [Rod Cutting](DP/Unbounded_Knapsack/rod_cutting.cpp)
 - [Unbounded Knapsack](DP/Unbounded_Knapsack/unbounded_knapsack.cpp)
