@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 20-09-2025 11:47</h4>
+<h4 align="center">Last Updated: 20-09-2025 14:31</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -86,13 +86,14 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Subset Sum](DP/0-1_Knapsack/subset_sum.cpp)
 - [Target Sum](DP/0-1_Knapsack/target_sum.cpp)
 
-#### 📂 2D 3D Grids
+#### 📂 2D-3D Grids
 
-- [Grid Unique Paths](DP/2D_3D_Grids/Grid_Unique_Paths.cpp)
-- [Grid Unique Paths 2](DP/2D_3D_Grids/Grid_Unique_Paths_2.cpp)
-- [Minimum Path Sum](DP/2D_3D_Grids/Minimum_Path_Sum.cpp)
-- [Minimum Path Sum In Triangular Grid](DP/2D_3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
-- [Ninja Training](DP/2D_3D_Grids/Ninja_Training.cpp)
+- [Grid Unique Paths](DP/2D-3D_Grids/Grid_Unique_Paths.cpp)
+- [Grid Unique Paths 2](DP/2D-3D_Grids/Grid_Unique_Paths_2.cpp)
+- [Minimum Falling Path Sum](DP/2D-3D_Grids/Minimum_Falling_Path_Sum.cpp)
+- [Minimum Path Sum](DP/2D-3D_Grids/Minimum_Path_Sum.cpp)
+- [Minimum Path Sum In Triangular Grid](DP/2D-3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
+- [Ninja Training](DP/2D-3D_Grids/Ninja_Training.cpp)
 
 #### 📂 Longest Common Subsequence
 
@@ -171,15 +172,15 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ## 📊 Summary
 - **Arrays**: 12 problems  
-  `███████░░░░░░░░░░░░░`
-- **DP**: 34 problems  
+  `██████░░░░░░░░░░░░░░`
+- **DP**: 35 problems  
   `████████████████████`
 - **Greedy**: 1 problems  
   `░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `██░░░░░░░░░░░░░░░░░░`
 
-- **Total Problems Solved:** 51
+- **Total Problems Solved:** 52
 
 ---
 
