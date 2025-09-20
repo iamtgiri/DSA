@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 20-09-2025 01:16</h4>
+<h4 align="center">Last Updated: 20-09-2025 11:32</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -74,6 +74,14 @@ It includes solutions to common problems, algorithm implementations, and coding 
 - [Subset Sum](DP/0-1_Knapsack/subset_sum.cpp)
 - [Target Sum](DP/0-1_Knapsack/target_sum.cpp)
 
+#### 📂 2D 3D Grids
+
+- [Grid Unique Paths](DP/2D_3D_Grids/Grid_Unique_Paths.cpp)
+- [Grid Unique Paths Ii](DP/2D_3D_Grids/Grid_Unique_Paths_II.cpp)
+- [Minimum Path Sum](DP/2D_3D_Grids/Minimum_Path_Sum.cpp)
+- [Minimum Path Sum In Triangular Grid](DP/2D_3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
+- [Ninja Training](DP/2D_3D_Grids/Ninja_Training.cpp)
+
 #### 📂 Longest Common Subsequence
 
 - [Assign Cookies](DP/Longest_Common_Subsequence/Assign_Cookies.cpp)
@@ -96,10 +104,6 @@ It includes solutions to common problems, algorithm implementations, and coding 
 - [Maxtrix Chain Multiplication](DP/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
 - [Evaluate Expression To True](DP/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
 - [Palindrome Partitioning](DP/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
-
-#### 📂 Others
-
-- [Ninja Training](DP/Others/Ninja_Training.cpp)
 
 #### 📂 Unbounded Knapsack
 
@@ -155,15 +159,15 @@ It includes solutions to common problems, algorithm implementations, and coding 
 
 ## 📊 Summary
 - **Arrays**: 12 problems  
-  `████████░░░░░░░░░░░░`
-- **DP**: 30 problems  
+  `███████░░░░░░░░░░░░░`
+- **DP**: 34 problems  
   `████████████████████`
 - **Greedy**: 1 problems  
   `░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `██░░░░░░░░░░░░░░░░░░`
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 51
 
 ---
 
