@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 21-09-2025 10:26</h4>
+<h4 align="center">Last Updated: 21-09-2025 16:31</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -27,6 +27,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 ## 📂 Categories
 - [Arrays](#-arrays)
+- [Bit_Manipulation](#-bit_manipulation)
 - [DP](#-dp)
 - [Graphs](#-graphs)
 - [Greedy](#-greedy)
@@ -68,6 +69,14 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Min Swap](Arrays/Two_Pointers/min_swap.cpp)
 - [Minimum Window Substring](Arrays/Two_Pointers/minimum_window_substring.cpp)
 - [Next Permutation](Arrays/Two_Pointers/next_permutation.cpp)
+
+</details>
+
+## ■ Bit_Manipulation
+<details>
+  <summary>Click to expand</summary>
+
+- [Max Product Pair](Bit_Manipulation/max_product_pair.cpp)
 
 </details>
 
@@ -120,6 +129,15 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Print Longest Common Subsequence](DP/Sequence_Alignment/print_longest_common_subsequence.cpp)
 - [Print Longest Common Substring](DP/Sequence_Alignment/print_longest_common_substring.cpp)
 - [Print Shortest Common Supersequence](DP/Sequence_Alignment/print_shortest_common_supersequence.cpp)
+
+#### 📂 Stocks
+
+- [Best Time To Buy And Sell Stock 1](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_1.cpp)
+- [Best Time To Buy And Sell Stock 2](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_2.cpp)
+- [Best Time To Buy And Sell Stock 3](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_3.cpp)
+- [Best Time To Buy And Sell Stock 4](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_4.cpp)
+- [Best Time To Buy And Sell Stock 5](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_5.cpp)
+- [Best Time To Buy And Sell Stock 6](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_6.cpp)
 
 #### 📂 Unbounded Knapsack
 
@@ -175,15 +193,17 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ## 📊 Summary
 - **Arrays**: 12 problems  
-  `██████░░░░░░░░░░░░░░`
-- **DP**: 38 problems  
+  `█████░░░░░░░░░░░░░░░`
+- **Bit_Manipulation**: 1 problems  
+  `░░░░░░░░░░░░░░░░░░░░`
+- **DP**: 44 problems  
   `████████████████████`
 - **Greedy**: 1 problems  
   `░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
-  `██░░░░░░░░░░░░░░░░░░`
+  `█░░░░░░░░░░░░░░░░░░░`
 
-- **Total Problems Solved:** 55
+- **Total Problems Solved:** 62
 
 ---
 
