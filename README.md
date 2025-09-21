@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 20-09-2025 14:31</h4>
+<h4 align="center">Last Updated: 21-09-2025 10:26</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -95,28 +95,31 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Minimum Path Sum In Triangular Grid](DP/2D-3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
 - [Ninja Training](DP/2D-3D_Grids/Ninja_Training.cpp)
 
-#### 📂 Longest Common Subsequence
-
-- [Assign Cookies](DP/Longest_Common_Subsequence/Assign_Cookies.cpp)
-- [Check If X Subsequence Of Y](DP/Longest_Common_Subsequence/check_if_X_subsequence_of_Y.cpp)
-- [Length Of Longest Common Subsequence](DP/Longest_Common_Subsequence/length_of_longest_common_subsequence.cpp)
-- [Length Of Longest Common Substring](DP/Longest_Common_Subsequence/length_of_longest_common_substring.cpp)
-- [Length Of Longest Palindromic Subsequence](DP/Longest_Common_Subsequence/length_of_longest_palindromic_subsequence.cpp)
-- [Length Of Longest Palindromic Substring](DP/Longest_Common_Subsequence/length_of_longest_palindromic_substring.cpp)
-- [Length Of Longest Repeating Subsequence](DP/Longest_Common_Subsequence/length_of_longest_repeating_subsequence.cpp)
-- [Length Of Shortest Common Supersequence](DP/Longest_Common_Subsequence/length_of_shortest_common_supersequence.cpp)
-- [Min Deletion To Make Palindrome](DP/Longest_Common_Subsequence/min_deletion_to_make_palindrome.cpp)
-- [Min Insertion To Make Palindrome](DP/Longest_Common_Subsequence/min_insertion_to_make_palindrome.cpp)
-- [Min Number Insertions Deletions To Convert X To Y](DP/Longest_Common_Subsequence/min_number_insertions_deletions_to_convert_X_to_Y.cpp)
-- [Print Longest Common Subsequence](DP/Longest_Common_Subsequence/print_longest_common_subsequence.cpp)
-- [Print Longest Common Substring](DP/Longest_Common_Subsequence/print_longest_common_substring.cpp)
-- [Print Shortest Common Supersequence](DP/Longest_Common_Subsequence/print_shortest_common_supersequence.cpp)
-
 #### 📂 Matrix Chain Multiplication
 
 - [Maxtrix Chain Multiplication](DP/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
 - [Evaluate Expression To True](DP/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
 - [Palindrome Partitioning](DP/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
+
+#### 📂 Sequence Alignment
+
+- [Assign Cookies](DP/Sequence_Alignment/Assign_Cookies.cpp)
+- [Count Distinct Subsequences](DP/Sequence_Alignment/Count_Distinct_Subsequences.cpp)
+- [Edit Distance](DP/Sequence_Alignment/Edit_Distance.cpp)
+- [Wildcard Matching](DP/Sequence_Alignment/Wildcard_Matching.cpp)
+- [Check If X Subsequence Of Y](DP/Sequence_Alignment/check_if_X_subsequence_of_Y.cpp)
+- [Length Of Longest Common Subsequence](DP/Sequence_Alignment/length_of_longest_common_subsequence.cpp)
+- [Length Of Longest Common Substring](DP/Sequence_Alignment/length_of_longest_common_substring.cpp)
+- [Length Of Longest Palindromic Subsequence](DP/Sequence_Alignment/length_of_longest_palindromic_subsequence.cpp)
+- [Length Of Longest Palindromic Substring](DP/Sequence_Alignment/length_of_longest_palindromic_substring.cpp)
+- [Length Of Longest Repeating Subsequence](DP/Sequence_Alignment/length_of_longest_repeating_subsequence.cpp)
+- [Length Of Shortest Common Supersequence](DP/Sequence_Alignment/length_of_shortest_common_supersequence.cpp)
+- [Min Deletion To Make Palindrome](DP/Sequence_Alignment/min_deletion_to_make_palindrome.cpp)
+- [Min Insertion To Make Palindrome](DP/Sequence_Alignment/min_insertion_to_make_palindrome.cpp)
+- [Min Number Insertions Deletions To Convert X To Y](DP/Sequence_Alignment/min_number_insertions_deletions_to_convert_X_to_Y.cpp)
+- [Print Longest Common Subsequence](DP/Sequence_Alignment/print_longest_common_subsequence.cpp)
+- [Print Longest Common Substring](DP/Sequence_Alignment/print_longest_common_substring.cpp)
+- [Print Shortest Common Supersequence](DP/Sequence_Alignment/print_shortest_common_supersequence.cpp)
 
 #### 📂 Unbounded Knapsack
 
@@ -173,14 +176,14 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 12 problems  
   `██████░░░░░░░░░░░░░░`
-- **DP**: 35 problems  
+- **DP**: 38 problems  
   `████████████████████`
 - **Greedy**: 1 problems  
   `░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `██░░░░░░░░░░░░░░░░░░`
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 55
 
 ---
 
