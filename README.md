@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 22-09-2025 23:26</h4>
+<h4 align="center">Last Updated: 23-09-2025 00:38</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -168,6 +168,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Minimum Platforms Required](Greedy/Minimum_platforms_required.cpp)
 - [Minimum Rotations To Unlock Circular Lock](Greedy/Minimum_rotations_to_unlock_circular_lock.cpp)
 - [N Meetings In One Room](Greedy/N_meetings_in_one_room.cpp)
+- [Page Faults In Lru](Greedy/Page_Faults_in_LRU.cpp)
 - [Shop In Candy Store](Greedy/Shop_in_Candy_Store.cpp)
 - [Shortest Job First](Greedy/Shortest_Job_first.cpp)
 - [Valid Parenthesis String](Greedy/Valid_Parenthesis_String.cpp)
@@ -209,12 +210,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `██████████████████████████████████████████████████`
-- **Greedy**: 16 problems  
-  `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Greedy**: 17 problems  
+  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 77</h4>
+- <h4>Total Problems Solved: 78</h4>
 
 ---
 
