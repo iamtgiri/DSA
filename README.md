@@ -1,28 +1,24 @@
-<h4 align="center">Last Updated: 22-09-2025 16:02</h4>
+<h4 align="center">Last Updated: 22-09-2025 23:26</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
 
 <p align="center"> 
   <!-- 🔹 Core repo info -->
-  <img src="https://img.shields.io/github/repo-size/iamtgiri/DSA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/iamtgiri/DSA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/iamtgiri/DSA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/iamtgiri/DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/iamtgiri/DSA?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/languages/top/iamtgiri/DSA?style=for-the-badge&color=white" />
+  <img src="https://img.shields.io/github/last-commit/iamtgiri/DSA?style=for-the-badge&color=success" />
 </p>
 
 <p align="center"> 
   <!-- 🔹 Social + Fun -->
-  <img src="https://img.shields.io/github/stars/iamtgiri/DSA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/iamtgiri/DSA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/iamtgiri/DSA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Practice-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-In%20Progress-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practice-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep-Coding-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-In%20Progress-blueviolet?style=for-the-badge" />
 </p>
 
 
-This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations, and coding exercises to sharpen problem-solving skills.
+This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations and coding exercises to sharpen problem-solving skills.
 
 ---
 ## 📂 Categories
@@ -161,14 +157,19 @@ This repository contains my practice code for **Data Structures and Algorithms (
   <summary>Click to expand</summary>
 
 - [Assign Cookies](Greedy/Assign_Cookies.cpp)
+- [Assign Mice Holes](Greedy/Assign_Mice_Holes.cpp)
 - [Candy](Greedy/Candy.cpp)
+- [Job Sequencing Problem](Greedy/Job_Sequencing_Problem.cpp)
 - [Jump Game](Greedy/Jump_Game.cpp)
 - [Jump Game 2](Greedy/Jump_Game_2.cpp)
 - [Lemonade Change](Greedy/Lemonade_Change.cpp)
+- [Merge Intervals](Greedy/Merge_Intervals.cpp)
 - [Minimum Number Of Coins](Greedy/Minimum_number_of_Coins.cpp)
 - [Minimum Platforms Required](Greedy/Minimum_platforms_required.cpp)
+- [Minimum Rotations To Unlock Circular Lock](Greedy/Minimum_rotations_to_unlock_circular_lock.cpp)
 - [N Meetings In One Room](Greedy/N_meetings_in_one_room.cpp)
 - [Shop In Candy Store](Greedy/Shop_in_Candy_Store.cpp)
+- [Shortest Job First](Greedy/Shortest_Job_first.cpp)
 - [Valid Parenthesis String](Greedy/Valid_Parenthesis_String.cpp)
 - [Fractional Knapsack](Greedy/fractional_knapsack.cpp)
 
@@ -203,23 +204,24 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ## 📊 Summary
 - **Arrays**: 12 problems  
-  `█████░░░░░░░░░░░░░░░`
+  `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit_Manipulation**: 1 problems  
-  `░░░░░░░░░░░░░░░░░░░░`
+  `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
-  `████████████████████`
-- **Greedy**: 11 problems  
-  `█████░░░░░░░░░░░░░░░`
+  `██████████████████████████████████████████████████`
+- **Greedy**: 16 problems  
+  `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
-  `█░░░░░░░░░░░░░░░░░░░`
+  `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- **Total Problems Solved:** 72
+- <h4>Total Problems Solved: 77</h4>
 
 ---
 
-
 ## ※ Contributing
 
-This repository is primarily for personal practice, but contributions are always welcome!
-Feel free to open issues or submit pull requests with improvements, suggestions or new problem solutions.
+This repository is primarily for personal practice, but contributions are always welcome! Feel free to open issues or submit pull requests with improvements, suggestions or new problem solutions.
 
+<p align="center">
+  <b>Keep coding, keep learning! 🚀</b>
+</p>
