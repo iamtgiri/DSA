@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 21-09-2025 16:31</h4>
+<h4 align="center">Last Updated: 22-09-2025 09:18</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -161,6 +161,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
   <summary>Click to expand</summary>
 
 - [Assign Cookies](Greedy/Assign_Cookies.cpp)
+- [Lemonade Change](Greedy/Lemonade_Change.cpp)
+- [Minimum Number Of Coins](Greedy/Minimum_number_of_Coins.cpp)
+- [Fractional Knapsack](Greedy/fractional_knapsack.cpp)
 
 </details>
 
@@ -198,12 +201,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `████████████████████`
-- **Greedy**: 1 problems  
-  `░░░░░░░░░░░░░░░░░░░░`
+- **Greedy**: 4 problems  
+  `█░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `█░░░░░░░░░░░░░░░░░░░`
 
-- **Total Problems Solved:** 62
+- **Total Problems Solved:** 65
 
 ---
 
