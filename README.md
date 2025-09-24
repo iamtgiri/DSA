@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-09-2025 18:13</h4>
+<h4 align="center">Last Updated: 24-09-2025 18:14</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -176,7 +176,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Single-Threaded Cpu](Greedy/Single-Threaded_CPU.cpp)
 - [Valid Parenthesis String](Greedy/Valid_Parenthesis_String.cpp)
 - [Fractional Knapsack](Greedy/fractional_knapsack.cpp)
-- [Tempcoderunnerfile](Greedy/tempCodeRunnerFile.cpp)
 
 </details>
 
@@ -214,12 +213,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `██████████████████████████████████████████████████`
-- **Greedy**: 21 problems  
-  `███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Greedy**: 20 problems  
+  `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 82</h4>
+- <h4>Total Problems Solved: 81</h4>
 
 ---
 
