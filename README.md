@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-09-2025 18:14</h4>
+<h4 align="center">Last Updated: 24-09-2025 23:25</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -72,7 +72,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
 <details>
   <summary>Click to expand</summary>
 
+- [Check If A Number Is Power Of 2](Bit_Manipulation/Check_if_a_number_is_power_of_2.cpp)
+- [Divide Two Integers](Bit_Manipulation/Divide_Two_Integers.cpp)
+- [Find Xor Of Numbers From L To R](Bit_Manipulation/Find_XOR_of_numbers_from_L_to_R.cpp)
+- [Swap Two Numbers](Bit_Manipulation/Swap_two_numbers.cpp)
 - [Max Product Pair](Bit_Manipulation/max_product_pair.cpp)
+- [Number That Appears Odd Number Of Times](Bit_Manipulation/number_that_appears_odd_number_of_times.cpp)
 
 </details>
 
@@ -209,8 +214,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 12 problems  
   `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit_Manipulation**: 1 problems  
-  `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Bit_Manipulation**: 6 problems  
+  `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `██████████████████████████████████████████████████`
 - **Greedy**: 20 problems  
@@ -218,7 +223,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 81</h4>
+- <h4>Total Problems Solved: 86</h4>
 
 ---
 
