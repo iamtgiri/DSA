@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-09-2025 09:31</h4>
+<h4 align="center">Last Updated: 24-09-2025 18:13</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -159,6 +159,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Assign Cookies](Greedy/Assign_Cookies.cpp)
 - [Assign Mice Holes](Greedy/Assign_Mice_Holes.cpp)
 - [Candy](Greedy/Candy.cpp)
+- [Insert Interval](Greedy/Insert_Interval.cpp)
 - [Job Sequencing Problem](Greedy/Job_Sequencing_Problem.cpp)
 - [Jump Game](Greedy/Jump_Game.cpp)
 - [Jump Game 2](Greedy/Jump_Game_2.cpp)
@@ -168,11 +169,14 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Minimum Platforms Required](Greedy/Minimum_platforms_required.cpp)
 - [Minimum Rotations To Unlock Circular Lock](Greedy/Minimum_rotations_to_unlock_circular_lock.cpp)
 - [N Meetings In One Room](Greedy/N_meetings_in_one_room.cpp)
+- [Non-Overlapping Intervals](Greedy/Non-overlapping_Intervals.cpp)
 - [Page Faults In Lru](Greedy/Page_Faults_in_LRU.cpp)
 - [Shop In Candy Store](Greedy/Shop_in_Candy_Store.cpp)
 - [Shortest Job First](Greedy/Shortest_Job_first.cpp)
+- [Single-Threaded Cpu](Greedy/Single-Threaded_CPU.cpp)
 - [Valid Parenthesis String](Greedy/Valid_Parenthesis_String.cpp)
 - [Fractional Knapsack](Greedy/fractional_knapsack.cpp)
+- [Tempcoderunnerfile](Greedy/tempCodeRunnerFile.cpp)
 
 </details>
 
@@ -210,12 +214,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `██████████████████████████████████████████████████`
-- **Greedy**: 17 problems  
-  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Greedy**: 21 problems  
+  `███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 78</h4>
+- <h4>Total Problems Solved: 82</h4>
 
 ---
 
