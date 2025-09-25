@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 25-09-2025 19:02</h4>
+<h4 align="center">Last Updated: 25-09-2025 21:19</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -216,6 +216,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Level Order Traversal](Trees/Binary_Tree/Binary_Tree_Level_Order_Traversal.cpp)
 - [Binary Tree Postorder Traversal](Trees/Binary_Tree/Binary_Tree_Postorder_Traversal.cpp)
 - [Binary Tree Preorder Traversal](Trees/Binary_Tree/Binary_Tree_Preorder_Traversal.cpp)
+- [Binary Tree Zigzag Level Order Traversal](Trees/Binary_Tree/Binary_Tree_zigzag_Level_Order_Traversal.cpp)
+- [Iterative Inorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Inorder_Traversal_of_Binary_Tree.cpp)
+- [Iterative Preorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Preorder_Traversal_of_Binary_Tree.cpp)
+- [Post-Order Traversal Of Binary Tree Using 1 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_1_stack.cpp)
+- [Post-Order Traversal Of Binary Tree Using 2 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_2_stack.cpp)
+- [Preorder Inorder And Postorder Traversal In One Traversal](Trees/Binary_Tree/Preorder_Inorder_and_Postorder_Traversal_in_one_Traversal.cpp)
 - [Introduction 1](Trees/Binary_Tree/introduction_1.cpp)
 
 </details>
@@ -233,10 +239,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 5 problems  
-  `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Trees**: 11 problems  
+  `████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 91</h4>
+- <h4>Total Problems Solved: 97</h4>
 
 ---
 
