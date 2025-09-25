@@ -88,10 +88,11 @@
 using namespace std;
 
 /**
- * @brief Represents a node in a binary tree.
- * @details This class provides a structure to store a value and pointers to
- * left and right child nodes, which are fundamental to building
- * and traversing binary trees.
+ * @class TreeNode
+ * @brief Represents a single node in a binary tree.
+ * @param val The data value stored in the node.
+ * @param left Pointer to the left child node.
+ * @param right Pointer to the right child node.
  */
 class TreeNode
 {

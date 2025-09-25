@@ -1,87 +1,88 @@
 /*
-* File: Binary_Tree_Inorder_Traversal.cpp
-* Date: 2025-09-25 18:28
-*
-* Problem: Binary Tree Inorder Traversal
-* Link: https://leetcode.com/problems/binary-tree-inorder-traversal/description/
-*
-* Problem Statement:
-* Given the root of a binary tree, return the inorder traversal of its
-* nodes' values.
-*
-*
-* -----------------------------------------------------------------------------------
-* ❌ Brute Force
-* - Idea: The problem itself is a classic traversal, so a brute-force approach
-* is not applicable. The most straightforward way to solve this is to
-* follow the definition of inorder traversal.
-* - Time complexity: N/A
-* - Space complexity: N/A
-* - Limitations: N/A
-*
-*
-* -----------------------------------------------------------------------------------
-* ✅ Optimized Approach: Recursive Traversal
-* - Idea: The definition of inorder traversal is "Left -> Root -> Right". This
-* structure is naturally recursive. We can recursively traverse the left
-* child, visit the current node, and finally recursively traverse the right
-* child.
-* - Approach: We'll use a helper function to perform the recursive traversal.
-* This helper function will take the current node and a reference to our
-* result vector.
-* - Algorithm:
-* 1. Create an empty vector `in` to store the result.
-* 2. Define a recursive helper function `InOrder(node, result_vector)`:
-* a. Base case: If `node` is `nullptr`, return.
-* b. Recurse on the left subtree: Call `InOrder(node->left, result_vector)`.
-* c. Visit the current node: Add `node->val` to `result_vector`.
-* d. Recurse on the right subtree: Call `InOrder(node->right, result_vector)`.
-* 3. Call the helper function with the root of the tree and the result vector.
-* 4. Return the result vector.
-* - Time complexity: O(N) where N is the number of nodes in the tree. We visit
-* each node exactly once.
-* - Space complexity: O(H) where H is the height of the tree. This is for the
-* call stack of the recursive function. In the worst case (a skewed tree),
-* H can be N, so the space complexity can be O(N). In the best case
-* (a balanced tree), H is log(N), so the space complexity is O(logN).
-*
-*
-* -----------------------------------------------------------------------------------
-* 💡 Key Pattern: Tree Traversal
-* - The problem is a standard tree traversal. Recursive solutions are often the
-* most intuitive for these problems due to the inherent recursive nature of
-* trees. The three main traversals (preorder, inorder, postorder) all follow
-* the same recursive pattern with just the order of operations changed.
-*
-*
-* -----------------------------------------------------------------------------------
-* ℹ️ Keywords: Binary Tree, Inorder Traversal, Recursion, DFS (Depth-First Search)
-*
-*
-* -----------------------------------------------------------------------------------
-* 🗒️ Notes
-* - (What did I learn?) The recursive approach is elegant and concise. I also
-* recall that an iterative solution using a stack is also possible. The
-* iterative approach would have a space complexity of O(N) in the worst case,
-* as the stack could hold all nodes from a single path.
-* - (Similar problems?) Preorder Traversal, Postorder Traversal, Level Order
-* Traversal.
-* - (Mistakes I made?) Initially, I might forget the base case of the recursion
-* (when the node is nullptr), leading to infinite loops or crashes. It's
-* crucial to handle the null pointer case.
-*
-*
-* -----------------------------------------------------------------------------------
-*/
+ * File: Binary_Tree_Inorder_Traversal.cpp
+ * Date: 2025-09-25 18:28
+ *
+ * Problem: Binary Tree Inorder Traversal
+ * Link: https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+ *
+ * Problem Statement:
+ * Given the root of a binary tree, return the inorder traversal of its
+ * nodes' values.
+ *
+ *
+ * -----------------------------------------------------------------------------------
+ * ❌ Brute Force
+ * - Idea: The problem itself is a classic traversal, so a brute-force approach
+ * is not applicable. The most straightforward way to solve this is to
+ * follow the definition of inorder traversal.
+ * - Time complexity: N/A
+ * - Space complexity: N/A
+ * - Limitations: N/A
+ *
+ *
+ * -----------------------------------------------------------------------------------
+ * ✅ Optimized Approach: Recursive Traversal
+ * - Idea: The definition of inorder traversal is "Left -> Root -> Right". This
+ * structure is naturally recursive. We can recursively traverse the left
+ * child, visit the current node, and finally recursively traverse the right
+ * child.
+ * - Approach: We'll use a helper function to perform the recursive traversal.
+ * This helper function will take the current node and a reference to our
+ * result vector.
+ * - Algorithm:
+ * 1. Create an empty vector `in` to store the result.
+ * 2. Define a recursive helper function `InOrder(node, result_vector)`:
+ * a. Base case: If `node` is `nullptr`, return.
+ * b. Recurse on the left subtree: Call `InOrder(node->left, result_vector)`.
+ * c. Visit the current node: Add `node->val` to `result_vector`.
+ * d. Recurse on the right subtree: Call `InOrder(node->right, result_vector)`.
+ * 3. Call the helper function with the root of the tree and the result vector.
+ * 4. Return the result vector.
+ * - Time complexity: O(N) where N is the number of nodes in the tree. We visit
+ * each node exactly once.
+ * - Space complexity: O(H) where H is the height of the tree. This is for the
+ * call stack of the recursive function. In the worst case (a skewed tree),
+ * H can be N, so the space complexity can be O(N). In the best case
+ * (a balanced tree), H is log(N), so the space complexity is O(logN).
+ *
+ *
+ * -----------------------------------------------------------------------------------
+ * 💡 Key Pattern: Tree Traversal
+ * - The problem is a standard tree traversal. Recursive solutions are often the
+ * most intuitive for these problems due to the inherent recursive nature of
+ * trees. The three main traversals (preorder, inorder, postorder) all follow
+ * the same recursive pattern with just the order of operations changed.
+ *
+ *
+ * -----------------------------------------------------------------------------------
+ * ℹ️ Keywords: Binary Tree, Inorder Traversal, Recursion, DFS (Depth-First Search)
+ *
+ *
+ * -----------------------------------------------------------------------------------
+ * 🗒️ Notes
+ * - (What did I learn?) The recursive approach is elegant and concise. I also
+ * recall that an iterative solution using a stack is also possible. The
+ * iterative approach would have a space complexity of O(N) in the worst case,
+ * as the stack could hold all nodes from a single path.
+ * - (Similar problems?) Preorder Traversal, Postorder Traversal, Level Order
+ * Traversal.
+ * - (Mistakes I made?) Initially, I might forget the base case of the recursion
+ * (when the node is nullptr), leading to infinite loops or crashes. It's
+ * crucial to handle the null pointer case.
+ *
+ *
+ * -----------------------------------------------------------------------------------
+ */
 
 #include <bits/stdc++.h>
 using namespace std;
 
 /**
- * @brief Represents a node in a binary tree.
- * @details This class provides a structure to store a value and pointers to
- * left and right child nodes, which are fundamental to building
- * and traversing binary trees.
+ * @class TreeNode
+ * @brief Represents a single node in a binary tree.
+ * @param val The data value stored in the node.
+ * @param left Pointer to the left child node.
+ * @param right Pointer to the right child node.
  */
 class TreeNode
 {
