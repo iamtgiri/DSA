@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-09-2025 23:25</h4>
+<h4 align="center">Last Updated: 25-09-2025 12:26</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -207,6 +207,13 @@ This repository contains my practice code for **Data Structures and Algorithms (
   <summary>Click to expand</summary>
 
 
+#### 📂 Binary Search Tree
+
+
+#### 📂 Binary Tree
+
+- [Introduction 1](Trees/Binary_Tree/introduction_1.cpp)
+
 </details>
 
 ---
@@ -222,8 +229,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Trees**: 1 problems  
+  `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 86</h4>
+- <h4>Total Problems Solved: 87</h4>
 
 ---
 
