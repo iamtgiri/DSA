@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 26-09-2025 01:21</h4>
+<h4 align="center">Last Updated: 26-09-2025 12:26</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -212,6 +212,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Binary Tree
 
+- [Balanced Binary Tree](Trees/Binary_Tree/Balanced_Binary_Tree.cpp)
 - [Binary Tree Inorder Traversal](Trees/Binary_Tree/Binary_Tree_Inorder_Traversal.cpp)
 - [Binary Tree Level Order Traversal](Trees/Binary_Tree/Binary_Tree_Level_Order_Traversal.cpp)
 - [Binary Tree Postorder Traversal](Trees/Binary_Tree/Binary_Tree_Postorder_Traversal.cpp)
@@ -219,6 +220,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Zigzag Level Order Traversal](Trees/Binary_Tree/Binary_Tree_zigzag_Level_Order_Traversal.cpp)
 - [Iterative Inorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Inorder_Traversal_of_Binary_Tree.cpp)
 - [Iterative Preorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Preorder_Traversal_of_Binary_Tree.cpp)
+- [Maximum Depth Of Binary Tree](Trees/Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp)
 - [Post-Order Traversal Of Binary Tree Using 1 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_1_stack.cpp)
 - [Post-Order Traversal Of Binary Tree Using 2 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_2_stack.cpp)
 - [Preorder Inorder And Postorder Traversal In One Traversal](Trees/Binary_Tree/Preorder_Inorder_and_Postorder_Traversal_in_one_Traversal.cpp)
@@ -240,10 +242,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 12 problems  
-  `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Trees**: 14 problems  
+  `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 98</h4>
+- <h4>Total Problems Solved: 100</h4>
 
 ---
 
