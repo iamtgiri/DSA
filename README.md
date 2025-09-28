@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 28-09-2025 19:35</h4>
+<h4 align="center">Last Updated: 29-09-2025 00:47</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -220,6 +220,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Zigzag Level Order Traversal](Trees/Binary_Tree/Binary_Tree_zigzag_Level_Order_Traversal.cpp)
 - [Count Leaves In Binary Tree](Trees/Binary_Tree/Count_Leaves_in_Binary_Tree.cpp)
 - [Count Non-Leaf Nodes In Tree](Trees/Binary_Tree/Count_Non-Leaf_Nodes_in_Tree.cpp)
+- [Diameter Of Binary Tree](Trees/Binary_Tree/Diameter_of_Binary_Tree.cpp)
 - [Flatten Binary Tree To Linked List](Trees/Binary_Tree/Flatten_Binary_Tree_to_Linked_List.cpp)
 - [Height Of Binary Tree](Trees/Binary_Tree/Height_of_Binary_Tree.cpp)
 - [Identical Trees](Trees/Binary_Tree/Identical_Trees.cpp)
@@ -251,10 +252,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 23 problems  
-  `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Trees**: 24 problems  
+  `███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 109</h4>
+- <h4>Total Problems Solved: 110</h4>
 
 ---
 
