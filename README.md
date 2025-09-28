@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 27-09-2025 11:08</h4>
+<h4 align="center">Last Updated: 28-09-2025 19:35</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -220,7 +220,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Zigzag Level Order Traversal](Trees/Binary_Tree/Binary_Tree_zigzag_Level_Order_Traversal.cpp)
 - [Count Leaves In Binary Tree](Trees/Binary_Tree/Count_Leaves_in_Binary_Tree.cpp)
 - [Count Non-Leaf Nodes In Tree](Trees/Binary_Tree/Count_Non-Leaf_Nodes_in_Tree.cpp)
+- [Flatten Binary Tree To Linked List](Trees/Binary_Tree/Flatten_Binary_Tree_to_Linked_List.cpp)
 - [Height Of Binary Tree](Trees/Binary_Tree/Height_of_Binary_Tree.cpp)
+- [Identical Trees](Trees/Binary_Tree/Identical_Trees.cpp)
+- [Invert Binary Tree](Trees/Binary_Tree/Invert_Binary_Tree.cpp)
 - [Iterative Inorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Inorder_Traversal_of_Binary_Tree.cpp)
 - [Iterative Preorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Preorder_Traversal_of_Binary_Tree.cpp)
 - [Largest Value In Each Level](Trees/Binary_Tree/Largest_Value_in_Each_Level.cpp)
@@ -229,6 +232,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Preorder Inorder And Postorder Traversal In One Traversal](Trees/Binary_Tree/Preorder_Inorder_and_Postorder_Traversal_in_one_Traversal.cpp)
 - [Size Of Binary Tree](Trees/Binary_Tree/Size_of_Binary_Tree.cpp)
 - [Sum Of Binary Tree](Trees/Binary_Tree/Sum_of_Binary_Tree.cpp)
+- [Symmetric Tree](Trees/Binary_Tree/Symmetric_Tree.cpp)
 - [Introduction 1](Trees/Binary_Tree/introduction_1.cpp)
 - [Introduction 2-Create Tree](Trees/Binary_Tree/introduction_2-Create_Tree.cpp)
 
@@ -247,10 +251,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 19 problems  
-  `█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Trees**: 23 problems  
+  `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 105</h4>
+- <h4>Total Problems Solved: 109</h4>
 
 ---
 
