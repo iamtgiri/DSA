@@ -58,14 +58,51 @@ is a set of nodes visible when the tree is viewed from the left side.
 #include <bits/stdc++.h>
 using namespace std;
 
-// Standard structure for GFG problems using 'data' field.
-struct Node
+
+/**
+ * @class TreeNode
+ * @brief Represents a single node in a binary tree.
+ * @param val The data value stored in the node.
+ * @param left Pointer to the left child node.
+ * @param right Pointer to the right child node.
+ */
+class TreeNode
 {
-    int data;
-    Node *left;
-    Node *right;
-    Node(int val) : data(val), left(nullptr), right(nullptr) {}
+public:
+    // The integer value stored in the node.
+    int val;
+    // Pointer to the left child node.
+    TreeNode *left;
+    // Pointer to the right child node.
+    TreeNode *right;
+
+    /**
+     * @brief Default constructor.
+     * @details Initializes a new node with a value of 0 and both child
+     * pointers set to nullptr.
+     */
+    TreeNode() : val(0), left(nullptr), right(nullptr) {}
+
+    /**
+     * @brief Constructor with value.
+     * @param x The integer value to be stored in the node.
+     * @details Initializes a new node with the given value and both child
+     * pointers set to nullptr.
+     */
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+
+    /**
+     * @brief Full constructor.
+     * @param x The integer value for the node.
+     * @param left A pointer to the left child node.
+     * @param right A pointer to the right child node.
+     * @details Initializes a new node with a value and pointers to its
+     * left and right children.
+     */
+    TreeNode(int x, TreeNode *left, TreeNode *right)
+        : val(x), left(left), right(right) {}
 };
+
 
 class Solution
 {
@@ -77,7 +114,7 @@ private:
      * @param level The depth of the current node (starting at 1).
      * @param maxLevel Reference to the maximum level recorded in 'ans'.
      */
-    void leftViewRecursive(Node *node, vector<int> &ans, int level, int &maxLevel)
+    void leftViewRecursive(TreeNode *node, vector<int> &ans, int level, int &maxLevel)
     {
         if (!node)
             return;
@@ -86,7 +123,7 @@ private:
         // level reached, it is the first node we encounter at this level.
         if (level > maxLevel)
         {
-            ans.push_back(node->data);
+            ans.push_back(node->val);
             maxLevel = level;
         }
 
@@ -102,13 +139,13 @@ public:
      * @param root The root node of the binary tree.
      * @return A vector containing the nodes in the left view.
      */
-    vector<int> leftViewBFS(Node *root)
+    vector<int> leftViewBFS(TreeNode *root)
     {
         if (!root)
             return {};
 
         vector<int> ans;
-        queue<Node *> q;
+        queue<TreeNode *> q;
         q.push(root);
 
         while (!q.empty())
@@ -116,11 +153,11 @@ public:
             int size = q.size();
 
             // The first node in the queue is the leftmost node of the current level.
-            ans.push_back(q.front()->data);
+            ans.push_back(q.front()->val);
 
             for (int i = 0; i < size; ++i)
             {
-                Node *node = q.front();
+                TreeNode *node = q.front();
                 q.pop();
 
                 // Process children for the next level
@@ -138,7 +175,7 @@ public:
      * @param root The root node of the binary tree.
      * @return A vector containing the nodes in the left view.
      */
-    vector<int> leftViewDFS(Node *root)
+    vector<int> leftViewDFS(TreeNode *root)
     {
         if (!root)
             return {};
@@ -149,7 +186,7 @@ public:
     }
 
     // Public function defaulting to the generally accepted BFS approach.
-    vector<int> leftView(Node *root)
+    vector<int> leftView(TreeNode *root)
     {
         return leftViewBFS(root);
     }
@@ -167,13 +204,13 @@ int main()
     //    4   5   7
     //   /
     //  8
-    Node *root = new Node(1);
-    root->left = new Node(2);
-    root->right = new Node(3);
-    root->left->left = new Node(4);
-    root->left->right = new Node(5);
-    root->right->right = new Node(7);
-    root->left->left->left = new Node(8);
+    TreeNode *root = new TreeNode(1);
+    root->left = new TreeNode(2);
+    root->right = new TreeNode(3);
+    root->left->left = new TreeNode(4);
+    root->left->right = new TreeNode(5);
+    root->right->right = new TreeNode(7);
+    root->left->left->left = new TreeNode(8);
 
     // Example test cases
     vector<int> view_bfs = sol.leftViewBFS(root);
