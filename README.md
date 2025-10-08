@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 08-10-2025 18:57</h4>
+<h4 align="center">Last Updated: 08-10-2025 19:36</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -216,6 +216,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Inorder Traversal](Trees/Binary_Tree/Binary_Tree_Inorder_Traversal.cpp)
 - [Binary Tree Left Side View](Trees/Binary_Tree/Binary_Tree_Left_Side_View.cpp)
 - [Binary Tree Level Order Traversal](Trees/Binary_Tree/Binary_Tree_Level_Order_Traversal.cpp)
+- [Binary Tree Paths](Trees/Binary_Tree/Binary_Tree_Paths.cpp)
 - [Binary Tree Postorder Traversal](Trees/Binary_Tree/Binary_Tree_Postorder_Traversal.cpp)
 - [Binary Tree Preorder Traversal](Trees/Binary_Tree/Binary_Tree_Preorder_Traversal.cpp)
 - [Binary Tree Right Side View](Trees/Binary_Tree/Binary_Tree_Right_Side_View.cpp)
@@ -235,6 +236,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Post-Order Traversal Of Binary Tree Using 1 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_1_stack.cpp)
 - [Post-Order Traversal Of Binary Tree Using 2 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_2_stack.cpp)
 - [Preorder Inorder And Postorder Traversal In One Traversal](Trees/Binary_Tree/Preorder_Inorder_and_Postorder_Traversal_in_one_Traversal.cpp)
+- [Print Root To A Node Path In Binary Tree](Trees/Binary_Tree/Print_Root_to_a_Node_Path_in_Binary_Tree.cpp)
 - [Size Of Binary Tree](Trees/Binary_Tree/Size_of_Binary_Tree.cpp)
 - [Sum Of Binary Tree](Trees/Binary_Tree/Sum_of_Binary_Tree.cpp)
 - [Symmetric Tree](Trees/Binary_Tree/Symmetric_Tree.cpp)
@@ -259,10 +261,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 31 problems  
-  `███████████████████████████████████░░░░░░░░░░░░░░░`
+- **Trees**: 33 problems  
+  `█████████████████████████████████████░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 117</h4>
+- <h4>Total Problems Solved: 119</h4>
 
 ---
 
