@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 02-10-2025 20:34</h4>
+<h4 align="center">Last Updated: 08-10-2025 18:57</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -220,6 +220,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Preorder Traversal](Trees/Binary_Tree/Binary_Tree_Preorder_Traversal.cpp)
 - [Binary Tree Right Side View](Trees/Binary_Tree/Binary_Tree_Right_Side_View.cpp)
 - [Binary Tree Zigzag Level Order Traversal](Trees/Binary_Tree/Binary_Tree_zigzag_Level_Order_Traversal.cpp)
+- [Bottom View Of Binary Tree](Trees/Binary_Tree/Bottom_View_of_Binary_Tree.cpp)
 - [Count Leaves In Binary Tree](Trees/Binary_Tree/Count_Leaves_in_Binary_Tree.cpp)
 - [Count Non-Leaf Nodes In Tree](Trees/Binary_Tree/Count_Non-Leaf_Nodes_in_Tree.cpp)
 - [Diameter Of Binary Tree](Trees/Binary_Tree/Diameter_of_Binary_Tree.cpp)
@@ -238,6 +239,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Sum Of Binary Tree](Trees/Binary_Tree/Sum_of_Binary_Tree.cpp)
 - [Symmetric Tree](Trees/Binary_Tree/Symmetric_Tree.cpp)
 - [Top View Of Binary Tree](Trees/Binary_Tree/Top_View_of_Binary_Tree.cpp)
+- [Tree Boundary Traversal](Trees/Binary_Tree/Tree_Boundary_Traversal.cpp)
 - [Vertical Order Traversal](Trees/Binary_Tree/Vertical_Order_Traversal.cpp)
 - [Introduction 1](Trees/Binary_Tree/introduction_1.cpp)
 - [Introduction 2-Create Tree](Trees/Binary_Tree/introduction_2-Create_Tree.cpp)
@@ -257,10 +259,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 29 problems  
-  `████████████████████████████████░░░░░░░░░░░░░░░░░░`
+- **Trees**: 31 problems  
+  `███████████████████████████████████░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 115</h4>
+- <h4>Total Problems Solved: 117</h4>
 
 ---
 
