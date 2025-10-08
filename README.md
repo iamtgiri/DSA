@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 08-10-2025 19:36</h4>
+<h4 align="center">Last Updated: 09-10-2025 02:28</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -209,6 +209,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Binary Search Tree
 
+- [Lca In Binary Search Tree](Trees/Binary_Search_Tree/LCA_in_Binary_Search_Tree.cpp)
 
 #### 📂 Binary Tree
 
@@ -231,8 +232,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Invert Binary Tree](Trees/Binary_Tree/Invert_Binary_Tree.cpp)
 - [Iterative Inorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Inorder_Traversal_of_Binary_Tree.cpp)
 - [Iterative Preorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Preorder_Traversal_of_Binary_Tree.cpp)
+- [Lca In Binary Tree](Trees/Binary_Tree/LCA_in_Binary_Tree.cpp)
 - [Largest Value In Each Level](Trees/Binary_Tree/Largest_Value_in_Each_Level.cpp)
 - [Maximum Path Sum](Trees/Binary_Tree/Maximum_path_sum.cpp)
+- [Maximum Width Of A Binary Tree](Trees/Binary_Tree/Maximum_width_of_a_Binary_Tree.cpp)
 - [Post-Order Traversal Of Binary Tree Using 1 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_1_stack.cpp)
 - [Post-Order Traversal Of Binary Tree Using 2 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_2_stack.cpp)
 - [Preorder Inorder And Postorder Traversal In One Traversal](Trees/Binary_Tree/Preorder_Inorder_and_Postorder_Traversal_in_one_Traversal.cpp)
@@ -261,10 +264,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 33 problems  
-  `█████████████████████████████████████░░░░░░░░░░░░░`
+- **Trees**: 36 problems  
+  `████████████████████████████████████████░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 119</h4>
+- <h4>Total Problems Solved: 122</h4>
 
 ---
 
