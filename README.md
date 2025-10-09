@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 09-10-2025 02:51</h4>
+<h4 align="center">Last Updated: 09-10-2025 10:57</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -209,7 +209,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Binary Search Tree
 
+- [Construct A Bst From A Preorder Traversal](Trees/Binary_Search_Tree/Construct_a_BST_from_a_preorder_traversal.cpp)
 - [Inorder Successor-Predecessor In Bst](Trees/Binary_Search_Tree/Inorder_Successor-Predecessor_in_BST.cpp)
+- [Kth Smallest Element In A Bst](Trees/Binary_Search_Tree/Kth_Smallest_Element_in_a_BST.cpp)
 - [Lca In Binary Search Tree](Trees/Binary_Search_Tree/LCA_in_Binary_Search_Tree.cpp)
 
 #### 📂 Binary Tree
@@ -265,10 +267,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 37 problems  
-  `██████████████████████████████████████████░░░░░░░░`
+- **Trees**: 39 problems  
+  `████████████████████████████████████████████░░░░░░`
 
-- <h4>Total Problems Solved: 123</h4>
+- <h4>Total Problems Solved: 125</h4>
 
 ---
 
