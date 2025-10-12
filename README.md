@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 12-10-2025 22:14</h4>
+<h4 align="center">Last Updated: 12-10-2025 23:19</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -220,6 +220,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Binary Tree
 
+- [All Nodes Distance K In Binary Tree](Trees/Binary_Tree/All_Nodes_Distance_K_in_Binary_Tree.cpp)
 - [Balanced Binary Tree](Trees/Binary_Tree/Balanced_Binary_Tree.cpp)
 - [Binary Tree Inorder Traversal](Trees/Binary_Tree/Binary_Tree_Inorder_Traversal.cpp)
 - [Binary Tree Left Side View](Trees/Binary_Tree/Binary_Tree_Left_Side_View.cpp)
@@ -230,6 +231,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Binary Tree Right Side View](Trees/Binary_Tree/Binary_Tree_Right_Side_View.cpp)
 - [Binary Tree Zigzag Level Order Traversal](Trees/Binary_Tree/Binary_Tree_zigzag_Level_Order_Traversal.cpp)
 - [Bottom View Of Binary Tree](Trees/Binary_Tree/Bottom_View_of_Binary_Tree.cpp)
+- [Children Sum In A Binary Tree](Trees/Binary_Tree/Children_Sum_in_a_Binary_Tree.cpp)
 - [Count Leaves In Binary Tree](Trees/Binary_Tree/Count_Leaves_in_Binary_Tree.cpp)
 - [Count Non-Leaf Nodes In Tree](Trees/Binary_Tree/Count_Non-Leaf_Nodes_in_Tree.cpp)
 - [Diameter Of Binary Tree](Trees/Binary_Tree/Diameter_of_Binary_Tree.cpp)
@@ -266,15 +268,15 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Bit_Manipulation**: 6 problems  
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
-  `██████████████████████████████████████████████████`
+  `████████████████████████████████████████████████░░`
 - **Greedy**: 20 problems  
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 43 problems  
-  `████████████████████████████████████████████████░░`
+- **Trees**: 45 problems  
+  `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 129</h4>
+- <h4>Total Problems Solved: 131</h4>
 
 ---
 
