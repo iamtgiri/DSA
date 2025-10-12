@@ -22,7 +22,7 @@ both p and q as descendants (where a node can be a descendant of itself).
   at every ancestor level.
 
 ✅ Optimized Approachs
-- Idea: Use a **single recursive DFS post-order traversal** that returns one of
+- Idea: Use a single recursive DFS post-order traversal that returns one of
   three states: null (neither p nor q found), p (p found), or q (q found). This
   allows the LCA decision to be made bottom-up.
 - Approach: Single-Pass Recursive DFS

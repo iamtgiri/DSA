@@ -27,13 +27,13 @@ not include the root. The path must contain at least one node.
 - Algorithm:
     1. A helper function dfs(node, maxSum) returns the maximum path
        sum that *can be extended* from node to its parent.
-    2. Inside $\text{dfs}$: Recursively find max paths from left/right,
+    2. Inside dfs: Recursively find max paths from left/right,
        discarding negative contributions using max(0, sum).
     3. Calculate the potential **global maximum path** through the current
        node: node.val + leftMax + rightMax.
     4. Update the global maxSum with this new potential maximum.
     5. Return the **maximum path to extend upward**: node.val + max(leftMax, rightMax).
-- Time complexity: O(N)$, as every node is visited exactly once.
+- Time complexity: O(N), as every node is visited exactly once.
 - Space complexity: O(H), where H is the height of the tree (for the
   recursion stack).
 
@@ -138,7 +138,7 @@ private:
         int leftGain = max(0, dfs(node->left, maxSum));
         int rightGain = max(0, dfs(node->right, maxSum));
 
-        // 2. Calculate the potential **maximum V-shaped path** that passes
+        // 2. Calculate the potential maximum V-shaped path that passes
         //    through the current 'node' (local maximum path sum).
         // This path includes $\text{node.val}$, $\text{leftGain}$, and $\text{rightGain}$.
         int currentPathSum = node->val + leftGain + rightGain;
@@ -146,8 +146,8 @@ private:
         // 3. Update the global maximum path sum.
         maxSum = max(maxSum, currentPathSum);
 
-        // 4. Return the **maximum single-branch path** that can be extended
-        //    *upward* to the parent node. A path extending upward cannot use
+        // 4. Return the maximum single-branch path that can be extended
+        //    upward to the parent node. A path extending upward cannot use
         //    both left and right branches.
         return node->val + max(leftGain, rightGain);
     }

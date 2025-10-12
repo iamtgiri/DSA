@@ -19,9 +19,9 @@ Binary Search Tree (BST), construct and return the BST.
 - Limitations: Sorting is an unnecessary step and adds complexity beyond O(N).
 
 ✅ Optimized Approachs
-- Idea: Exploit the property that in a BST, for any node $X$, all values in its
-  left subtree must be less than $X$, and all values in its right subtree must be
-  greater than $X$. We can use this to establish **upper and lower bounds** for
+- Idea: Exploit the property that in a BST, for any node X, all values in its
+  left subtree must be less than X, and all values in its right subtree must be
+  greater than X. We can use this to establish upper and lower bounds for
   each recursive call.
 - Approach: Recursive Construction with Range Bounds (Single Pass).
 - Algorithm:
@@ -37,7 +37,7 @@ Binary Search Tree (BST), construct and return the BST.
        The new range is `[root->val, high)`.
 - Time complexity: O(N). Every element in the `preorder` array is visited and processed
   exactly once.
-- Space complexity: O(H). For the recursive call stack, where $H$ is the height of the tree.
+- Space complexity: O(H). For the recursive call stack, where H is the height of the tree.
 
 💡 Key Pattern:
 - **Preorder + Bounding:** When reconstructing a BST from Preorder (or Postorder),
@@ -127,7 +127,7 @@ private:
      * @param high The maximum valid value for the current root (exclusive).
      * @return The root of the constructed subtree.
      */
-    TreeNode *build(vector<int> &pre, int &i, int low, int high)
+    TreeNode *build(const vector<int> &pre, int &i, int low, int high)
     {
         // Base Case 1: All nodes processed.
         // Base Case 2: Current value is outside the valid range set by ancestors.
