@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 11-10-2025 22:07</h4>
+<h4 align="center">Last Updated: 12-10-2025 10:58</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -213,6 +213,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Inorder Successor-Predecessor In Bst](Trees/Binary_Search_Tree/Inorder_Successor-Predecessor_in_BST.cpp)
 - [Kth Smallest Element In A Bst](Trees/Binary_Search_Tree/Kth_Smallest_Element_in_a_BST.cpp)
 - [Lca In Binary Search Tree](Trees/Binary_Search_Tree/LCA_in_Binary_Search_Tree.cpp)
+- [Recover Binary Search Tree](Trees/Binary_Search_Tree/Recover_Binary_Search_Tree.cpp)
 - [Two Sum In Bst](Trees/Binary_Search_Tree/Two_Sum_In_BST.cpp)
 
 #### 📂 Binary Tree
@@ -268,10 +269,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 40 problems  
-  `█████████████████████████████████████████████░░░░░`
+- **Trees**: 41 problems  
+  `██████████████████████████████████████████████░░░░`
 
-- <h4>Total Problems Solved: 126</h4>
+- <h4>Total Problems Solved: 127</h4>
 
 ---
 
