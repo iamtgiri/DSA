@@ -17,7 +17,7 @@ You do not need to return anything, just modify the tree in-place.
   to identify the two nodes whose values must be swapped.
 - Time complexity: O(N log N). Dominated by the sorting step.
 - Space complexity: O(N). To store the list of N node pointers and N values.
-- Limitations: Inefficient due to $O(N \log N)$ time and high auxiliary space.
+- Limitations: Inefficient due to O(Nlog N) time and high auxiliary space.
 
 ✅ Optimized Approachs
 - Idea: Exploit the property that an **Inorder Traversal** of a correct BST must yield
@@ -46,7 +46,7 @@ You do not need to return anything, just modify the tree in-place.
 - Binary Search Tree, BST, Inorder Traversal, In-place, Constant Space (if using Morris), Violation
 
 🗒️ Notes
-- The $O(H)$ space complexity is usually considered sufficient. If $O(1)$ auxiliary space
+- The O(H) space complexity is usually considered sufficient. If O(1) auxiliary space
   is required (as per the follow-up note on LeetCode), **Morris Traversal** must be used
   to implement the Inorder traversal without using a stack.
 -------------------------------------------------
