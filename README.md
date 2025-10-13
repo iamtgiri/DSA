@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 13-10-2025 15:01</h4>
+<h4 align="center">Last Updated: 13-10-2025 19:31</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -155,6 +155,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
   <summary>Click to expand</summary>
 
 - [Connected Components In An Undirected Graph](Graphs/Connected_Components_in_an_Undirected_Graph.cpp)
+- [Cycle Detection In Unirected Graph](Graphs/Cycle_Detection_in_unirected_Graph.cpp)
+- [Flood Fill](Graphs/Flood_Fill.cpp)
+- [Number Of Provinces](Graphs/Number_of_Provinces.cpp)
 - [Bfs Traversal](Graphs/bfs_traversal.cpp)
 - [Dfs Traversal](Graphs/dfs_traversal.cpp)
 - [Introduction - Graph Representation](Graphs/introduction_-_graph_representation.cpp)
@@ -273,8 +276,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `████████████████████████████████████████████████░░`
-- **Graphs**: 4 problems  
-  `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 7 problems  
+  `███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -282,7 +285,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 45 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 135</h4>
+- <h4>Total Problems Solved: 138</h4>
 
 ---
 
