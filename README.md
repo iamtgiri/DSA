@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 12-10-2025 23:19</h4>
+<h4 align="center">Last Updated: 13-10-2025 09:06</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -154,6 +154,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 <details>
   <summary>Click to expand</summary>
 
+- [Introduction-Representation](Graphs/introduction-representation.cpp)
 
 </details>
 
@@ -269,6 +270,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `████████████████████████████████████████████████░░`
+- **Graphs**: 1 problems  
+  `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -276,7 +279,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 45 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 131</h4>
+- <h4>Total Problems Solved: 132</h4>
 
 ---
 
