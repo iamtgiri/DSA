@@ -65,7 +65,7 @@ public:
      * @param adj The adjacency list of the graph.
      * @param visited Array to track if a node has ever been visited (globally).
      * @param recStack Array to track if a node is currently in the recursion stack (locally).
-     * @return True if a cycle is detected, false otherwise.
+     * @return True if a cycle is detected, False otherwise.
      */
     bool dfs(int node, vector<vector<int>> &adj, vector<int> &visited, vector<int> &recStack)
     {
