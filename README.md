@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 16-10-2025 12:30</h4>
+<h4 align="center">Last Updated: 16-10-2025 17:58</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -158,18 +158,25 @@ This repository contains my practice code for **Data Structures and Algorithms (
 <details>
   <summary>Click to expand</summary>
 
-- [01 Matrix](Graphs/01_Matrix.cpp)
-- [Connected Components In An Undirected Graph](Graphs/Connected_Components_in_an_Undirected_Graph.cpp)
-- [Cycle Detection In Unirected Graph](Graphs/Cycle_Detection_in_unirected_Graph.cpp)
-- [Directed Graph Cycle](Graphs/Directed_Graph_Cycle.cpp)
-- [Flood Fill](Graphs/Flood_Fill.cpp)
-- [Number Of Enclaves](Graphs/Number_of_Enclaves.cpp)
-- [Number Of Provinces](Graphs/Number_of_Provinces.cpp)
-- [Rotting Oranges](Graphs/Rotting_Oranges.cpp)
-- [Surrounded Regions](Graphs/Surrounded_Regions.cpp)
-- [Bfs Traversal](Graphs/bfs_traversal.cpp)
-- [Dfs Traversal](Graphs/dfs_traversal.cpp)
-- [Introduction - Graph Representation](Graphs/introduction_-_graph_representation.cpp)
+
+#### 📂 Bfs Dfs
+
+- [01 Matrix](Graphs/BFS_DFS/01_Matrix.cpp)
+- [Connected Components In An Undirected Graph](Graphs/BFS_DFS/Connected_Components_in_an_Undirected_Graph.cpp)
+- [Cycle Detection In Unirected Graph](Graphs/BFS_DFS/Cycle_Detection_in_unirected_Graph.cpp)
+- [Directed Graph Cycle](Graphs/BFS_DFS/Directed_Graph_Cycle.cpp)
+- [Flood Fill](Graphs/BFS_DFS/Flood_Fill.cpp)
+- [Number Of Enclaves](Graphs/BFS_DFS/Number_of_Enclaves.cpp)
+- [Number Of Provinces](Graphs/BFS_DFS/Number_of_Provinces.cpp)
+- [Rotting Oranges](Graphs/BFS_DFS/Rotting_Oranges.cpp)
+- [Surrounded Regions](Graphs/BFS_DFS/Surrounded_Regions.cpp)
+- [Bfs Traversal](Graphs/BFS_DFS/bfs_traversal.cpp)
+- [Dfs Traversal](Graphs/BFS_DFS/dfs_traversal.cpp)
+- [Introduction - Graph Representation](Graphs/BFS_DFS/introduction_-_graph_representation.cpp)
+
+#### 📂 Topo Sort
+
+- [Topological Sort](Graphs/Topo_Sort/Topological_sort.cpp)
 
 </details>
 
@@ -285,8 +292,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `████████████████████████████████████████████████░░`
-- **Graphs**: 12 problems  
-  `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 13 problems  
+  `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -294,7 +301,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 45 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 144</h4>
+- <h4>Total Problems Solved: 145</h4>
 
 ---
 
