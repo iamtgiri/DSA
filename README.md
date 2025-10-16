@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 14-10-2025 19:40</h4>
+<h4 align="center">Last Updated: 16-10-2025 12:30</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -50,6 +50,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
 #### 📂 Divide And Conquer
 
 - [Stable Partition](Arrays/Divide_And_Conquer/stable_partition.cpp)
+
+#### 📂 Matrix
+
+- [Valid Sudoku](Arrays/Matrix/Valid_Sudoku.cpp)
 
 #### 📂 Sliding Window
 
@@ -275,8 +279,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 12 problems  
-  `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 13 problems  
+  `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit_Manipulation**: 6 problems  
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
@@ -290,7 +294,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 45 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 143</h4>
+- <h4>Total Problems Solved: 144</h4>
 
 ---
 
