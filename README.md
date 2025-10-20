@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 20-10-2025 12:30</h4>
+<h4 align="center">Last Updated: 20-10-2025 16:38</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -162,6 +162,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 #### 📂 Bfs Dfs
 
 - [01 Matrix](Graphs/BFS_DFS/01_Matrix.cpp)
+- [Bipartite Graph](Graphs/BFS_DFS/Bipartite_Graph.cpp)
 - [Connected Components In An Undirected Graph](Graphs/BFS_DFS/Connected_Components_in_an_Undirected_Graph.cpp)
 - [Cycle Detection In Unirected Graph](Graphs/BFS_DFS/Cycle_Detection_in_unirected_Graph.cpp)
 - [Directed Graph Cycle](Graphs/BFS_DFS/Directed_Graph_Cycle.cpp)
@@ -294,8 +295,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `████████████████████████████████████████████████░░`
-- **Graphs**: 15 problems  
-  `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 16 problems  
+  `█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -303,7 +304,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 45 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 147</h4>
+- <h4>Total Problems Solved: 148</h4>
 
 ---
 
