@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 22-10-2025 15:34</h4>
+<h4 align="center">Last Updated: 24-10-2025 18:47</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -173,6 +173,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Rotting Oranges](Graphs/BFS_DFS/Rotting_Oranges.cpp)
 - [Surrounded Regions](Graphs/BFS_DFS/Surrounded_Regions.cpp)
 - [Word Ladder](Graphs/BFS_DFS/Word_Ladder.cpp)
+- [Word Ladder 2](Graphs/BFS_DFS/Word_Ladder_2.cpp)
 - [Bfs Traversal](Graphs/BFS_DFS/bfs_traversal.cpp)
 - [Dfs Traversal](Graphs/BFS_DFS/dfs_traversal.cpp)
 - [Introduction - Graph Representation](Graphs/BFS_DFS/introduction_-_graph_representation.cpp)
@@ -301,8 +302,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `██████████████████████████████████████████████░░░░`
-- **Graphs**: 17 problems  
-  `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 18 problems  
+  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -310,7 +311,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 47 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 151</h4>
+- <h4>Total Problems Solved: 152</h4>
 
 ---
 
