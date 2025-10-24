@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-10-2025 18:47</h4>
+<h4 align="center">Last Updated: 24-10-2025 23:01</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -79,6 +79,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Check If A Number Is Power Of 2](Bit_Manipulation/Check_if_a_number_is_power_of_2.cpp)
 - [Divide Two Integers](Bit_Manipulation/Divide_Two_Integers.cpp)
 - [Find Xor Of Numbers From L To R](Bit_Manipulation/Find_XOR_of_numbers_from_L_to_R.cpp)
+- [Minimum Flips](Bit_Manipulation/Minimum_Flips.cpp)
 - [Swap Two Numbers](Bit_Manipulation/Swap_two_numbers.cpp)
 - [Max Product Pair](Bit_Manipulation/max_product_pair.cpp)
 - [Number That Appears Odd Number Of Times](Bit_Manipulation/number_that_appears_odd_number_of_times.cpp)
@@ -271,6 +272,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Iterative Preorder Traversal Of Binary Tree](Trees/Binary_Tree/Iterative_Preorder_Traversal_of_Binary_Tree.cpp)
 - [Lca In Binary Tree](Trees/Binary_Tree/LCA_in_Binary_Tree.cpp)
 - [Largest Value In Each Level](Trees/Binary_Tree/Largest_Value_in_Each_Level.cpp)
+- [Maximum Level Sum Of Bt](Trees/Binary_Tree/Maximum_Level_Sum_of_BT.cpp)
 - [Maximum Path Sum](Trees/Binary_Tree/Maximum_path_sum.cpp)
 - [Maximum Width Of A Binary Tree](Trees/Binary_Tree/Maximum_width_of_a_Binary_Tree.cpp)
 - [Post-Order Traversal Of Binary Tree Using 1 Stack](Trees/Binary_Tree/Post-order_Traversal_of_Binary_Tree_using_1_stack.cpp)
@@ -298,20 +300,20 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 13 problems  
   `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit_Manipulation**: 6 problems  
-  `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Bit_Manipulation**: 7 problems  
+  `███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
-  `██████████████████████████████████████████████░░░░`
+  `█████████████████████████████████████████████░░░░░`
 - **Graphs**: 18 problems  
-  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+  `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
-  `█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+  `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 47 problems  
+- **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 152</h4>
+- <h4>Total Problems Solved: 154</h4>
 
 ---
 
