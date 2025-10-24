@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-10-2025 23:01</h4>
+<h4 align="center">Last Updated: 24-10-2025 23:03</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -28,6 +28,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Graphs](#-graphs)
 - [Greedy](#-greedy)
 - [Heap](#-heap)
+- [LinkedList](#-linkedlist)
 - [Strings](#-strings)
 - [Trees](#-trees)
 
@@ -224,6 +225,18 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
+## ■ LinkedList
+<details>
+  <summary>Click to expand</summary>
+
+- [Deleting A Node In Linkedlist](LinkedList/Deleting_a_node_in_LinkedList.cpp)
+- [Maximum Twin Sum Of Linked List](LinkedList/Maximum_Twin_Sum_of_Linked_List.cpp)
+- [Odd Even Linked List](LinkedList/Odd_Even_Linked_List.cpp)
+- [Reverse Linked List](LinkedList/Reverse_Linked_List.cpp)
+- [Reverse A Doubly Linked List](LinkedList/Reverse_a_Doubly_Linked_List.cpp)
+
+</details>
+
 ## ■ Strings
 <details>
   <summary>Click to expand</summary>
@@ -310,10 +323,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **LinkedList**: 5 problems  
+  `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 154</h4>
+- <h4>Total Problems Solved: 159</h4>
 
 ---
 
