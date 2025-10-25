@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 24-10-2025 23:03</h4>
+<h4 align="center">Last Updated: 25-10-2025 18:52</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -29,7 +29,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Greedy](#-greedy)
 - [Heap](#-heap)
 - [LinkedList](#-linkedlist)
-- [Strings](#-strings)
 - [Trees](#-trees)
 
 ---
@@ -78,6 +77,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
   <summary>Click to expand</summary>
 
 - [Check If A Number Is Power Of 2](Bit_Manipulation/Check_if_a_number_is_power_of_2.cpp)
+- [Counting Bits](Bit_Manipulation/Counting_Bits.cpp)
 - [Divide Two Integers](Bit_Manipulation/Divide_Two_Integers.cpp)
 - [Find Xor Of Numbers From L To R](Bit_Manipulation/Find_XOR_of_numbers_from_L_to_R.cpp)
 - [Minimum Flips](Bit_Manipulation/Minimum_Flips.cpp)
@@ -237,13 +237,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Strings
-<details>
-  <summary>Click to expand</summary>
-
-
-</details>
-
 ## ■ Trees
 <details>
   <summary>Click to expand</summary>
@@ -313,8 +306,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 13 problems  
   `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit_Manipulation**: 7 problems  
-  `███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Bit_Manipulation**: 8 problems  
+  `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
 - **Graphs**: 18 problems  
@@ -328,7 +321,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 159</h4>
+- <h4>Total Problems Solved: 160</h4>
 
 ---
 
