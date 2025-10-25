@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 25-10-2025 18:52</h4>
+<h4 align="center">Last Updated: 26-10-2025 00:45</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -41,6 +41,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Binary Search
 
+- [Successful Pairs Of Spells And Potions](Arrays/Binary_Search/Successful_Pairs_of_Spells_and_Potions.cpp)
 - [Allocate Books](Arrays/Binary_Search/allocate_books.cpp)
 - [Binary Search](Arrays/Binary_Search/binary_search.cpp)
 - [Chat Ban](Arrays/Binary_Search/chat_ban.cpp)
@@ -53,6 +54,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Matrix
 
+- [Count Number Of Trapezoids-I](Arrays/Matrix/Count_Number_of_Trapezoids-I.cpp)
 - [Valid Sudoku](Arrays/Matrix/Valid_Sudoku.cpp)
 
 #### 📂 Sliding Window
@@ -304,8 +306,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 13 problems  
-  `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 15 problems  
+  `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit_Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
@@ -321,7 +323,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 160</h4>
+- <h4>Total Problems Solved: 162</h4>
 
 ---
 
