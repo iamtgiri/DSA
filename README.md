@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 26-10-2025 10:50</h4>
+<h4 align="center">Last Updated: 26-10-2025 11:31</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -175,6 +175,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Number Of Distinct Islands](Graphs/BFS_DFS/Number_of_Distinct_Islands.cpp)
 - [Number Of Enclaves](Graphs/BFS_DFS/Number_of_Enclaves.cpp)
 - [Number Of Provinces](Graphs/BFS_DFS/Number_of_Provinces.cpp)
+- [Prerequisite Tasks](Graphs/BFS_DFS/Prerequisite_Tasks.cpp)
 - [Rotting Oranges](Graphs/BFS_DFS/Rotting_Oranges.cpp)
 - [Surrounded Regions](Graphs/BFS_DFS/Surrounded_Regions.cpp)
 - [Word Ladder](Graphs/BFS_DFS/Word_Ladder.cpp)
@@ -313,8 +314,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 19 problems  
-  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 20 problems  
+  `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -324,7 +325,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 163</h4>
+- <h4>Total Problems Solved: 164</h4>
 
 ---
 

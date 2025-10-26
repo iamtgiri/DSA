@@ -13,8 +13,15 @@ A region is NOT captured if it is on the border or connected to the border
 (i.e., it is "safe").
 
 Example:
-Input: board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
-Output: [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]
+Input: board = [["X","X","X","X"],
+                ["X","O","O","X"],
+                ["X","X","O","X"],
+                ["X","O","X","X"]]
+                
+Output: [["X","X","X","X"],
+         ["X","X","X","X"],
+         ["X","X","X","X"],
+         ["X","O","X","X"]]
 ----------------------------------------------------------------------------------
 ❌ Brute Force
 - Idea: For every 'O' in the inner part of the board, run a separate BFS or DFS
