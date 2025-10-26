@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 26-10-2025 11:31</h4>
+<h4 align="center">Last Updated: 26-10-2025 16:08</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -186,6 +186,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Topo Sort
 
+- [Course Schedule](Graphs/Topo_Sort/Course_Schedule.cpp)
 - [Kahns Algorithm](Graphs/Topo_Sort/Kahns_Algorithm.cpp)
 - [Topological Sort](Graphs/Topo_Sort/Topological_sort.cpp)
 
@@ -314,8 +315,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 20 problems  
-  `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 21 problems  
+  `█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -325,7 +326,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 164</h4>
+- <h4>Total Problems Solved: 165</h4>
 
 ---
 
