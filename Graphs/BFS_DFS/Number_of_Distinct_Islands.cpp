@@ -49,10 +49,10 @@ public:
     /**
      * @brief Helper function to traverse the island and record the shape relative to (r0, c0).
      */
-    void dfs(int r, int c, vector<vector<int>> &grid, vector<vector<int>> &vis, vector<pair<int, int>> &shape, int r0, int c0)
+    void dfs(int r, int c, vector<vector<int>> &grid, vector<pair<int, int>> &shape, int r0, int c0)
     {
         int n = grid.size(), m = grid[0].size();
-        vis[r][c] = 1;
+        grid[r][c] = 0;
         // Normalize coordinates and record the offset
         shape.push_back({r - r0, c - c0});
 
@@ -64,10 +64,9 @@ public:
         {
             int nr = r + dr[i];
             int nc = c + dc[i];
-            if (nr >= 0 && nr < n && nc >= 0 && nc < m &&
-                !vis[nr][nc] && grid[nr][nc] == 1)
+            if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1)
             {
-                dfs(nr, nc, grid, vis, shape, r0, c0);
+                dfs(nr, nc, grid, shape, r0, c0);
             }
         }
     }
@@ -83,18 +82,17 @@ public:
             return 0;
         int n = grid.size(), m = grid[0].size();
 
-        vector<vector<int>> visited(n, vector<int>(m, 0));
         set<vector<pair<int, int>>> shapes;
 
         for (int i = 0; i < n; ++i)
         {
             for (int j = 0; j < m; ++j)
             {
-                if (grid[i][j] == 1 && !visited[i][j])
+                if (grid[i][j] == 1)
                 {
                     vector<pair<int, int>> shape;
                     // i and j are the root coordinates (r0, c0) for this island
-                    dfs(i, j, grid, visited, shape, i, j);
+                    dfs(i, j, grid, shape, i, j);
                     shapes.insert(shape);
                 }
             }
