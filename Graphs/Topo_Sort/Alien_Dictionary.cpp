@@ -204,7 +204,7 @@ int main()
     string result5 = sol.findOrder(words5);
     cout << "Test 5 | Words: ";
     printWords(words5);
-    cout << "\nResult: \"" << result5 << "\" (Expected: \"cab\")\n";
+    cout << "\nResult: \"" << result5 << "\" (Expected: \"cba\")\n";
     cout << "--------------------------------\n";
 
     // Test Case 6: Invalid Prefix (Should return "")
