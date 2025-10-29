@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 29-10-2025 22:46</h4>
+<h4 align="center">Last Updated: 30-10-2025 01:34</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -186,6 +186,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Shortest Path Algorithms
 
+- [Dijkstra Algorithm](Graphs/Shortest_Path_Algorithms/Dijkstra_Algorithm.cpp)
 - [Shortest Path In Ug](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_UG.cpp)
 
 #### 📂 Topo Sort
@@ -322,8 +323,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **DP**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 25 problems  
-  `██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 26 problems  
+  `███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -333,7 +334,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 169</h4>
+- <h4>Total Problems Solved: 170</h4>
 
 ---
 

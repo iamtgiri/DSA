@@ -10,7 +10,7 @@ Given an undirected graph where all edges have a unit distance (weight of 1),
 find the shortest distance from a given source node to all other nodes.
 If a node is unreachable, its distance should be -1.
 
--------------------------------------------------
+--------------------------------------------------------------------------------------------------
 ❌ Brute Force
 - Idea: Use Depth First Search (DFS) or a recursive approach to explore all
   possible paths from the source to every other node and track the minimum
@@ -22,26 +22,28 @@ If a node is unreachable, its distance should be -1.
   failure to leverage the unit-distance property.
 
 ✅ Optimized Approachs
-- Idea: Since all edge weights are uniform (1), **Breadth-First Search (BFS)** is guaranteed to find the shortest path to any reachable node upon its first visit.
+- Idea: Since all edge weights are uniform (1), Breadth-First Search (BFS) is guaranteed
+  to find the shortest path to any reachable node upon its first visit.
   It explores the graph layer by layer (distance 0, then 1, then 2, etc.).
-- Approach: **Breadth-First Search (BFS)**.
+- Approach: Breadth-First Search (BFS).
 - Algorithm:
-    1. **Initialization:** Initialize a distance array (`dist`) with -1 (or infinity)
+    1. Initialization: Initialize a distance array (`dist`) with -1 (or infinity)
        for all nodes and a visited array (`vis`).
-    2. **Queue Setup:** Start BFS by pushing the source node and its distance (0)
+    2. Queue Setup: Start BFS by pushing the source node and its distance (0)
        into a queue (e.g., `queue<pair<int, int>>`). Mark the source as visited.
-    3. **BFS Loop:** While the queue is not empty:
+    3. BFS Loop: While the queue is not empty:
         - Dequeue the current node and its distance (`d`).
         - Set `dist[node] = d`.
         - For every unvisited neighbor (`nei`):
             - Mark `nei` as visited.
             - Enqueue `(nei, d + 1)`.
-    4. **Result:** The `dist` array contains the shortest distance to all nodes.
-- Time complexity: **O(N + E)**, where N is the number of vertices and E is the number of edges. This is optimal for graph traversal.
-- Space complexity: **O(N + E)** for the adjacency list, distance array, and queue.
+    4. Result: The `dist` array contains the shortest distance to all nodes.
+- Time complexity: O(N + E), where N is the number of vertices and E is the number of edges.
+  This is optimal for graph traversal.
+- Space complexity: O(N + E) for the adjacency list, distance array, and queue.
 
 💡 Key Pattern:
-- **Shortest Path in Unweighted Graph:** Always solvable by BFS.
+- Shortest Path in Unweighted Graph: Always solvable by BFS.
 
 ℹ️ Keywords:
 - Unweighted Graph, Unit Distance, Breadth-First Search (BFS), Shortest Path.
