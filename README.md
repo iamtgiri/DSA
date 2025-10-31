@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 31-10-2025 23:19</h4>
+<h4 align="center">Last Updated: 31-10-2025 23:20</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -29,6 +29,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Greedy](#-greedy)
 - [Heap](#-heap)
 - [LinkedList](#-linkedlist)
+- [Strings](#-strings)
 - [Trees](#-trees)
 
 ---
@@ -254,6 +255,18 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
+## ■ Strings
+<details>
+  <summary>Click to expand</summary>
+
+- [Ancestral Names](Strings/Ancestral_Names.cpp)
+- [Basic Calculator 2](Strings/Basic_Calculator_2.cpp)
+- [Glide Typing](Strings/Glide_Typing.cpp)
+- [Subsequence Sort](Strings/Subsequence_Sort.cpp)
+- [Remove Adjacent Duplicates](Strings/remove_adjacent_duplicates.cpp)
+
+</details>
+
 ## ■ Trees
 <details>
   <summary>Click to expand</summary>
@@ -335,10 +348,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **LinkedList**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Strings**: 5 problems  
+  `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 174</h4>
+- <h4>Total Problems Solved: 179</h4>
 
 ---
 
