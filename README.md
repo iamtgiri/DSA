@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 31-10-2025 23:20</h4>
+<h4 align="center">Last Updated: 02-11-2025 00:32</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -75,7 +75,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Bit_Manipulation
+## ■ Bit Manipulation
 <details>
   <summary>Click to expand</summary>
 
@@ -90,7 +90,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ DP
+## ■ Dp
 <details>
   <summary>Click to expand</summary>
 
@@ -243,7 +243,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ LinkedList
+## ■ Linkedlist
 <details>
   <summary>Click to expand</summary>
 
@@ -336,9 +336,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 15 problems  
   `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit_Manipulation**: 8 problems  
+- **Bit Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **DP**: 44 problems  
+- **Dp**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
 - **Graphs**: 30 problems  
   `███████████████████████████████░░░░░░░░░░░░░░░░░░░`
@@ -346,7 +346,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **LinkedList**: 5 problems  
+- **Linkedlist**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
