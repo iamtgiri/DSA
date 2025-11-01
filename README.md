@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 02-11-2025 00:33</h4>
+<h4 align="center">Last Updated: 02-11-2025 00:35</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -23,12 +23,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 ## 📂 Categories
 - [Arrays](#-arrays)
-- [Bit_Manipulation](#-bit_manipulation)
-- [DP](#-dp)
+- [Bit Manipulation](#-bit_manipulation)
+- [Dp](#-dp)
 - [Graphs](#-graphs)
 - [Greedy](#-greedy)
 - [Heap](#-heap)
-- [Linked_List](#-linked_list)
+- [Linked List](#-linked_list)
 - [Strings](#-strings)
 - [Trees](#-trees)
 
