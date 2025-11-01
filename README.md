@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 02-11-2025 00:32</h4>
+<h4 align="center">Last Updated: 02-11-2025 00:33</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -28,7 +28,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Graphs](#-graphs)
 - [Greedy](#-greedy)
 - [Heap](#-heap)
-- [LinkedList](#-linkedlist)
+- [Linked_List](#-linked_list)
 - [Strings](#-strings)
 - [Trees](#-trees)
 
@@ -243,15 +243,15 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Linkedlist
+## ■ Linked List
 <details>
   <summary>Click to expand</summary>
 
-- [Deleting A Node In Linkedlist](LinkedList/Deleting_a_node_in_LinkedList.cpp)
-- [Maximum Twin Sum Of Linked List](LinkedList/Maximum_Twin_Sum_of_Linked_List.cpp)
-- [Odd Even Linked List](LinkedList/Odd_Even_Linked_List.cpp)
-- [Reverse Linked List](LinkedList/Reverse_Linked_List.cpp)
-- [Reverse A Doubly Linked List](LinkedList/Reverse_a_Doubly_Linked_List.cpp)
+- [Deleting A Node In Linkedlist](Linked_List/Deleting_a_node_in_LinkedList.cpp)
+- [Maximum Twin Sum Of Linked List](Linked_List/Maximum_Twin_Sum_of_Linked_List.cpp)
+- [Odd Even Linked List](Linked_List/Odd_Even_Linked_List.cpp)
+- [Reverse Linked List](Linked_List/Reverse_Linked_List.cpp)
+- [Reverse A Doubly Linked List](Linked_List/Reverse_a_Doubly_Linked_List.cpp)
 
 </details>
 
@@ -346,7 +346,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Linkedlist**: 5 problems  
+- **Linked List**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
