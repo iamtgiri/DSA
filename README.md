@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 02-11-2025 14:50</h4>
+<h4 align="center">Last Updated: 02-11-2025 16:12</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -190,6 +190,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Cheapest Flights Within K Stops](Graphs/Shortest_Path_Algorithms/Cheapest_Flights_Within_K_Stops.cpp)
 - [Dijkstra Algorithm](Graphs/Shortest_Path_Algorithms/Dijkstra_Algorithm.cpp)
 - [Network Delay Time](Graphs/Shortest_Path_Algorithms/Network_Delay_Time.cpp)
+- [Path With Minimum Effort](Graphs/Shortest_Path_Algorithms/Path_With_Minimum_Effort.cpp)
 - [Shortest Path In Binary Matrix](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_Binary_Matrix.cpp)
 - [Shortest Path In Ug](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_UG.cpp)
 - [Shortest Path In Dag](Graphs/Shortest_Path_Algorithms/Shortest_path_in_DAG.cpp)
@@ -340,8 +341,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 30 problems  
-  `███████████████████████████████░░░░░░░░░░░░░░░░░░░`
+- **Graphs**: 31 problems  
+  `████████████████████████████████░░░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -353,7 +354,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 179</h4>
+- <h4>Total Problems Solved: 180</h4>
 
 ---
 
