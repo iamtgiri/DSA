@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 04-11-2025 00:54</h4>
+<h4 align="center">Last Updated: 04-11-2025 02:38</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -192,6 +192,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [City With The Smallest Number Of Neighbors](Graphs/Shortest_Path_Algorithms/City_With_the_Smallest_Number_of_Neighbors.cpp)
 - [Dijkstra Algorithm](Graphs/Shortest_Path_Algorithms/Dijkstra_Algorithm.cpp)
 - [Floyd Warshall](Graphs/Shortest_Path_Algorithms/Floyd_Warshall.cpp)
+- [Knight Tour Configuration](Graphs/Shortest_Path_Algorithms/Knight_Tour_Configuration.cpp)
+- [Knight Walk](Graphs/Shortest_Path_Algorithms/Knight_Walk.cpp)
 - [Minimum Multiplications To Reach End](Graphs/Shortest_Path_Algorithms/Minimum_Multiplications_to_reach_End.cpp)
 - [Network Delay Time](Graphs/Shortest_Path_Algorithms/Network_Delay_Time.cpp)
 - [Number Of Ways To Arrive At Destination](Graphs/Shortest_Path_Algorithms/Number_of_Ways_to_Arrive_at_Destination.cpp)
@@ -199,6 +201,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Shortest Path In Binary Matrix](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_Binary_Matrix.cpp)
 - [Shortest Path In Ug](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_UG.cpp)
 - [Shortest Path In Wug](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_WUG.cpp)
+- [Shortest Source To Destination Path](Graphs/Shortest_Path_Algorithms/Shortest_Source_to_Destination_Path.cpp)
 - [Shortest Path In Dag](Graphs/Shortest_Path_Algorithms/Shortest_path_in_DAG.cpp)
 
 #### 📂 Topo Sort
@@ -347,8 +350,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 37 problems  
-  `██████████████████████████████████████░░░░░░░░░░░░`
+- **Graphs**: 40 problems  
+  `█████████████████████████████████████████░░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -360,7 +363,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 186</h4>
+- <h4>Total Problems Solved: 189</h4>
 
 ---
 
