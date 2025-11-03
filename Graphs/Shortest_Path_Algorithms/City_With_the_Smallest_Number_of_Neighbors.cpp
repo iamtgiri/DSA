@@ -47,7 +47,7 @@ If there are multiple such cities, return the city with the largest index.
 - Floyd-Warshall, All-Pairs Shortest Path, Dynamic Programming, Weighted Graph, Tie-breaker
 
 🗒️ Notes
-- **Tie-breaker logic:** The requirement to return the city with the **largest index** in case of a tie is critical. This means we should update the best city when
+- Tie-breaker logic: The requirement to return the city with the **largest index** in case of a tie is critical. This means we should update the best city when
   `new_count <= min_count` (using `<=` instead of `<`).
 - **Overflow:** Although distance threshold and weights are typically small, always use
   a `long long` intermediate sum in the relaxation step to avoid overflow if path
