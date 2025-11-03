@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 02-11-2025 16:44</h4>
+<h4 align="center">Last Updated: 03-11-2025 15:55</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -194,6 +194,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Path With Minimum Effort](Graphs/Shortest_Path_Algorithms/Path_With_Minimum_Effort.cpp)
 - [Shortest Path In Binary Matrix](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_Binary_Matrix.cpp)
 - [Shortest Path In Ug](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_UG.cpp)
+- [Shortest Path In Wug](Graphs/Shortest_Path_Algorithms/Shortest_Path_in_WUG.cpp)
 - [Shortest Path In Dag](Graphs/Shortest_Path_Algorithms/Shortest_path_in_DAG.cpp)
 
 #### 📂 Topo Sort
@@ -342,8 +343,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 32 problems  
-  `█████████████████████████████████░░░░░░░░░░░░░░░░░`
+- **Graphs**: 33 problems  
+  `██████████████████████████████████░░░░░░░░░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -355,7 +356,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 181</h4>
+- <h4>Total Problems Solved: 182</h4>
 
 ---
 
