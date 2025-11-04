@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 04-11-2025 02:38</h4>
+<h4 align="center">Last Updated: 04-11-2025 17:03</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -172,6 +172,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Covid Spread](Graphs/BFS_DFS/Covid_Spread.cpp)
 - [Cycle Detection In Unirected Graph](Graphs/BFS_DFS/Cycle_Detection_in_unirected_Graph.cpp)
 - [Directed Graph Cycle](Graphs/BFS_DFS/Directed_Graph_Cycle.cpp)
+- [Euler Circuit And Path](Graphs/BFS_DFS/Euler_circuit_and_Path.cpp)
 - [Flood Fill](Graphs/BFS_DFS/Flood_Fill.cpp)
 - [Number Of Distinct Islands](Graphs/BFS_DFS/Number_of_Distinct_Islands.cpp)
 - [Number Of Enclaves](Graphs/BFS_DFS/Number_of_Enclaves.cpp)
@@ -350,8 +351,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 40 problems  
-  `█████████████████████████████████████████░░░░░░░░░`
+- **Graphs**: 41 problems  
+  `██████████████████████████████████████████░░░░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -363,7 +364,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
 
-- <h4>Total Problems Solved: 189</h4>
+- <h4>Total Problems Solved: 190</h4>
 
 ---
 
