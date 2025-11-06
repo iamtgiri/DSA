@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 05-11-2025 00:04</h4>
+<h4 align="center">Last Updated: 06-11-2025 11:12</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -31,6 +31,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Linked List](#-linked_list)
 - [Strings](#-strings)
 - [Trees](#-trees)
+- [Others](#-others)
 
 ---
 ## ※ Problems List
@@ -342,6 +343,16 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
+## ■ Others
+<details>
+  <summary>Click to expand</summary>
+
+- [Largest Square In Cityscape ](Others/Largest_Square_in_Cityscape .cpp)
+- [Library Book Tracker](Others/Library_Book_Tracker.cpp)
+- [Molecular Reactor Simulation](Others/Molecular_Reactor_Simulation.cpp)
+
+</details>
+
 ---
 
 ## 📊 Summary
@@ -363,8 +374,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 48 problems  
   `██████████████████████████████████████████████████`
+- **Others**: 3 problems  
+  `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 190</h4>
+- <h4>Total Problems Solved: 193</h4>
 
 ---
 
