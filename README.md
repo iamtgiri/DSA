@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 06-11-2025 12:21</h4>
+<h4 align="center">Last Updated: 06-11-2025 12:49</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -277,6 +277,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Evaluate Reverse Polish Notation](Stack_and_Queue/Evaluate_Reverse_Polish_Notation.cpp)
 - [Largest Rectangle In Histogram](Stack_and_Queue/Largest_Rectangle_in_Histogram.cpp)
 - [Prefix Evaluation](Stack_and_Queue/Prefix_Evaluation.cpp)
+- [Remove K Digits](Stack_and_Queue/Remove_K_Digits.cpp)
 
 </details>
 
@@ -383,8 +384,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Linked List**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Stack And Queue**: 5 problems  
-  `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Stack And Queue**: 6 problems  
+  `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 48 problems  
@@ -392,7 +393,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 198</h4>
+- <h4>Total Problems Solved: 199</h4>
 
 ---
 
