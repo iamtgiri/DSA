@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 06-11-2025 11:17</h4>
+<h4 align="center">Last Updated: 06-11-2025 12:21</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -29,6 +29,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Greedy](#-greedy)
 - [Heap](#-heap)
 - [Linked List](#-linked_list)
+- [Stack And Queue](#-stack_and_queue)
 - [Strings](#-strings)
 - [Trees](#-trees)
 - [Others](#-others)
@@ -267,6 +268,18 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
+## ■ Stack And Queue
+<details>
+  <summary>Click to expand</summary>
+
+- [Asteroid Collision](Stack_and_Queue/Asteroid_Collision.cpp)
+- [Ball Collision](Stack_and_Queue/Ball_Collision.cpp)
+- [Evaluate Reverse Polish Notation](Stack_and_Queue/Evaluate_Reverse_Polish_Notation.cpp)
+- [Largest Rectangle In Histogram](Stack_and_Queue/Largest_Rectangle_in_Histogram.cpp)
+- [Prefix Evaluation](Stack_and_Queue/Prefix_Evaluation.cpp)
+
+</details>
+
 ## ■ Strings
 <details>
   <summary>Click to expand</summary>
@@ -370,6 +383,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Linked List**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Stack And Queue**: 5 problems  
+  `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 48 problems  
@@ -377,7 +392,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 193</h4>
+- <h4>Total Problems Solved: 198</h4>
 
 ---
 
