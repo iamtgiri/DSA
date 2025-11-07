@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 07-11-2025 10:40</h4>
+<h4 align="center">Last Updated: 07-11-2025 11:27</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -191,6 +191,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Minimum Spanning Tree
 
+- [Min Cost To Connect All Points](Graphs/Minimum_Spanning_Tree/Min_Cost_to_Connect_All_Points.cpp)
+- [Prims Algorithm](Graphs/Minimum_Spanning_Tree/Prims_Algorithm.cpp)
 
 #### 📂 Shortest Path Algorithms
 
@@ -380,8 +382,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
   `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 42 problems  
-  `███████████████████████████████████████████░░░░░░░`
+- **Graphs**: 44 problems  
+  `█████████████████████████████████████████████░░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -397,7 +399,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 200</h4>
+- <h4>Total Problems Solved: 202</h4>
 
 ---
 

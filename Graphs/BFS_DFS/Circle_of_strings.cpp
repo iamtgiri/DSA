@@ -109,21 +109,6 @@ public:
         int start = arr[0][0] - 'a';
         vector<bool> vis(26, false);
 
-        // Find the first active node if the starting node itself has no edges
-        // (though in this problem, arr is non-empty, so start is guaranteed to be active)
-        if (outdeg[start] == 0 && indeg[start] == 0)
-        {
-            // Find the first letter that is actually used in the graph
-            for (int i = 0; i < 26; ++i)
-            {
-                if (outdeg[i] > 0 || indeg[i] > 0)
-                {
-                    start = i;
-                    break;
-                }
-            }
-        }
-
         // Run DFS from the starting node
         dfs(adj, vis, start);
 
