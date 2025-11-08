@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 07-11-2025 11:27</h4>
+<h4 align="center">Last Updated: 08-11-2025 17:20</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -53,6 +53,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Divide And Conquer
 
+- [Beautiful Array](Arrays/Divide_And_Conquer/Beautiful_Array.cpp)
 - [Stable Partition](Arrays/Divide_And_Conquer/stable_partition.cpp)
 
 #### 📂 Matrix
@@ -62,6 +63,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Sliding Window
 
+- [Maximum Sum Of Distinct Subarrays With Length K](Arrays/Sliding_Window/Maximum_Sum_of_Distinct_Subarrays_With_Length_K.cpp)
 - [Binary Subarray With Sum](Arrays/Sliding_Window/binary_subarray_with_sum.cpp)
 - [Min Swap One](Arrays/Sliding_Window/min_swap_one.cpp)
 
@@ -376,8 +378,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 15 problems  
-  `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 17 problems  
+  `█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
@@ -399,7 +401,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 202</h4>
+- <h4>Total Problems Solved: 204</h4>
 
 ---
 
