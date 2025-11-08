@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 08-11-2025 17:20</h4>
+<h4 align="center">Last Updated: 08-11-2025 17:41</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -53,7 +53,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Divide And Conquer
 
-- [Beautiful Array](Arrays/Divide_And_Conquer/Beautiful_Array.cpp)
 - [Stable Partition](Arrays/Divide_And_Conquer/stable_partition.cpp)
 
 #### 📂 Matrix
@@ -282,10 +281,13 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 - [Asteroid Collision](Stack_and_Queue/Asteroid_Collision.cpp)
 - [Ball Collision](Stack_and_Queue/Ball_Collision.cpp)
+- [Beautiful Array](Stack_and_Queue/Beautiful_Array.cpp)
 - [Evaluate Reverse Polish Notation](Stack_and_Queue/Evaluate_Reverse_Polish_Notation.cpp)
 - [Largest Rectangle In Histogram](Stack_and_Queue/Largest_Rectangle_in_Histogram.cpp)
+- [Minimum Add To Make Parentheses Valid](Stack_and_Queue/Minimum_Add_to_Make_Parentheses_Valid.cpp)
 - [Prefix Evaluation](Stack_and_Queue/Prefix_Evaluation.cpp)
 - [Remove K Digits](Stack_and_Queue/Remove_K_Digits.cpp)
+- [Valid Parentheses](Stack_and_Queue/Valid_Parentheses.cpp)
 
 </details>
 
@@ -378,8 +380,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 17 problems  
-  `█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 16 problems  
+  `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dp**: 44 problems  
@@ -392,8 +394,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Linked List**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Stack And Queue**: 6 problems  
-  `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Stack And Queue**: 9 problems  
+  `█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 48 problems  
@@ -401,7 +403,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 204</h4>
+- <h4>Total Problems Solved: 206</h4>
 
 ---
 
