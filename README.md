@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 09-11-2025 17:13</h4>
+<h4 align="center">Last Updated: 09-11-2025 17:14</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -379,7 +379,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 <details>
   <summary>Click to expand</summary>
 
-- [Largest Square In Cityscape ](Others/Largest_Square_in_Cityscape .cpp)
+- [Largest Square In Cityscape](Others/Largest_Square_in_Cityscape.cpp)
 - [Library Book Tracker](Others/Library_Book_Tracker.cpp)
 - [Molecular Reactor Simulation](Others/Molecular_Reactor_Simulation.cpp)
 
