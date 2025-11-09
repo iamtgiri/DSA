@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 08-11-2025 18:25</h4>
+<h4 align="center">Last Updated: 09-11-2025 17:12</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -24,7 +24,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📂 Categories
 - [Arrays](#-arrays)
 - [Bit Manipulation](#-bit_manipulation)
-- [Dp](#-dp)
 - [Graphs](#-graphs)
 - [Greedy](#-greedy)
 - [Heap](#-heap)
@@ -93,75 +92,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Dp
-<details>
-  <summary>Click to expand</summary>
-
-
-#### 📂 0-1 Knapsack
-
-- [0-1 Knapsack](DP/0-1_Knapsack/0-1_knapsack.cpp)
-- [Count Subset For Given Diff](DP/0-1_Knapsack/count_subset_for_given_diff.cpp)
-- [Count Subset Sum](DP/0-1_Knapsack/count_subset_sum.cpp)
-- [Equal Sum Subset](DP/0-1_Knapsack/equal_sum_subset.cpp)
-- [Min Subset Sum Diff](DP/0-1_Knapsack/min_subset_sum_diff.cpp)
-- [Subset Sum](DP/0-1_Knapsack/subset_sum.cpp)
-- [Target Sum](DP/0-1_Knapsack/target_sum.cpp)
-
-#### 📂 2D-3D Grids
-
-- [Grid Unique Paths](DP/2D-3D_Grids/Grid_Unique_Paths.cpp)
-- [Grid Unique Paths 2](DP/2D-3D_Grids/Grid_Unique_Paths_2.cpp)
-- [Minimum Falling Path Sum](DP/2D-3D_Grids/Minimum_Falling_Path_Sum.cpp)
-- [Minimum Path Sum](DP/2D-3D_Grids/Minimum_Path_Sum.cpp)
-- [Minimum Path Sum In Triangular Grid](DP/2D-3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
-- [Ninja Training](DP/2D-3D_Grids/Ninja_Training.cpp)
-
-#### 📂 Matrix Chain Multiplication
-
-- [Maxtrix Chain Multiplication](DP/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
-- [Evaluate Expression To True](DP/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
-- [Palindrome Partitioning](DP/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
-
-#### 📂 Sequence Alignment
-
-- [Assign Cookies](DP/Sequence_Alignment/Assign_Cookies.cpp)
-- [Count Distinct Subsequences](DP/Sequence_Alignment/Count_Distinct_Subsequences.cpp)
-- [Edit Distance](DP/Sequence_Alignment/Edit_Distance.cpp)
-- [Wildcard Matching](DP/Sequence_Alignment/Wildcard_Matching.cpp)
-- [Check If X Subsequence Of Y](DP/Sequence_Alignment/check_if_X_subsequence_of_Y.cpp)
-- [Length Of Longest Common Subsequence](DP/Sequence_Alignment/length_of_longest_common_subsequence.cpp)
-- [Length Of Longest Common Substring](DP/Sequence_Alignment/length_of_longest_common_substring.cpp)
-- [Length Of Longest Palindromic Subsequence](DP/Sequence_Alignment/length_of_longest_palindromic_subsequence.cpp)
-- [Length Of Longest Palindromic Substring](DP/Sequence_Alignment/length_of_longest_palindromic_substring.cpp)
-- [Length Of Longest Repeating Subsequence](DP/Sequence_Alignment/length_of_longest_repeating_subsequence.cpp)
-- [Length Of Shortest Common Supersequence](DP/Sequence_Alignment/length_of_shortest_common_supersequence.cpp)
-- [Min Deletion To Make Palindrome](DP/Sequence_Alignment/min_deletion_to_make_palindrome.cpp)
-- [Min Insertion To Make Palindrome](DP/Sequence_Alignment/min_insertion_to_make_palindrome.cpp)
-- [Min Number Insertions Deletions To Convert X To Y](DP/Sequence_Alignment/min_number_insertions_deletions_to_convert_X_to_Y.cpp)
-- [Print Longest Common Subsequence](DP/Sequence_Alignment/print_longest_common_subsequence.cpp)
-- [Print Longest Common Substring](DP/Sequence_Alignment/print_longest_common_substring.cpp)
-- [Print Shortest Common Supersequence](DP/Sequence_Alignment/print_shortest_common_supersequence.cpp)
-
-#### 📂 Stocks
-
-- [Best Time To Buy And Sell Stock 1](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_1.cpp)
-- [Best Time To Buy And Sell Stock 2](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_2.cpp)
-- [Best Time To Buy And Sell Stock 3](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_3.cpp)
-- [Best Time To Buy And Sell Stock 4](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_4.cpp)
-- [Best Time To Buy And Sell Stock 5](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_5.cpp)
-- [Best Time To Buy And Sell Stock 6](DP/Stocks/Best_Time_to_Buy_and_Sell_Stock_6.cpp)
-
-#### 📂 Unbounded Knapsack
-
-- [Coin Change 1](DP/Unbounded_Knapsack/coin_change_1.cpp)
-- [Coin Change 2](DP/Unbounded_Knapsack/coin_change_2.cpp)
-- [Maximum Ribbon Cut](DP/Unbounded_Knapsack/maximum_ribbon_cut.cpp)
-- [Rod Cutting](DP/Unbounded_Knapsack/rod_cutting.cpp)
-- [Unbounded Knapsack](DP/Unbounded_Knapsack/unbounded_knapsack.cpp)
-
-</details>
-
 ## ■ Graphs
 <details>
   <summary>Click to expand</summary>
@@ -184,6 +114,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Prerequisite Tasks](Graphs/BFS_DFS/Prerequisite_Tasks.cpp)
 - [Rotting Oranges](Graphs/BFS_DFS/Rotting_Oranges.cpp)
 - [Surrounded Regions](Graphs/BFS_DFS/Surrounded_Regions.cpp)
+- [Valid Library Log](Graphs/BFS_DFS/Valid_Library_Log.cpp)
 - [Word Ladder](Graphs/BFS_DFS/Word_Ladder.cpp)
 - [Word Ladder 2](Graphs/BFS_DFS/Word_Ladder_2.cpp)
 - [Bfs Traversal](Graphs/BFS_DFS/bfs_traversal.cpp)
@@ -387,10 +318,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Dp**: 44 problems  
-  `█████████████████████████████████████████████░░░░░`
-- **Graphs**: 44 problems  
-  `█████████████████████████████████████████████░░░░░`
+- **Graphs**: 45 problems  
+  `██████████████████████████████████████████████░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -406,7 +335,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 209</h4>
+- <h4>Total Problems Solved: 166</h4>
 
 ---
 
