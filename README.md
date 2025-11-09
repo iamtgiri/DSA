@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 09-11-2025 21:28</h4>
+<h4 align="center">Last Updated: 09-11-2025 21:30</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -194,7 +194,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - 💻 [Bfs Traversal](Graphs/BFS_DFS/bfs_traversal.cpp)
 - 💻 [Dfs Traversal](Graphs/BFS_DFS/dfs_traversal.cpp)
 - 💻 [Introduction - Graph Representation](Graphs/BFS_DFS/introduction_-_graph_representation.cpp)
-- 🐍 [Word Ladder.Py](Graphs/BFS_DFS/word_ladder.py)
+- 🐍 [Word Ladder](Graphs/BFS_DFS/word_ladder.py)
 
 #### 📂 Minimum Spanning Tree
 
