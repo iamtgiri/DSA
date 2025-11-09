@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 09-11-2025 17:12</h4>
+<h4 align="center">Last Updated: 09-11-2025 17:13</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -24,6 +24,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📂 Categories
 - [Arrays](#-arrays)
 - [Bit Manipulation](#-bit_manipulation)
+- [Dynamic Programming](#-dynamic_programming)
 - [Graphs](#-graphs)
 - [Greedy](#-greedy)
 - [Heap](#-heap)
@@ -89,6 +90,79 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Swap Two Numbers](Bit_Manipulation/Swap_two_numbers.cpp)
 - [Max Product Pair](Bit_Manipulation/max_product_pair.cpp)
 - [Number That Appears Odd Number Of Times](Bit_Manipulation/number_that_appears_odd_number_of_times.cpp)
+
+</details>
+
+## ■ Dynamic Programming
+<details>
+  <summary>Click to expand</summary>
+
+
+#### 📂 0-1 Knapsack
+
+- [0-1 Knapsack](Dynamic_Programming/0-1_Knapsack/0-1_knapsack.cpp)
+- [Count Subset For Given Diff](Dynamic_Programming/0-1_Knapsack/count_subset_for_given_diff.cpp)
+- [Count Subset Sum](Dynamic_Programming/0-1_Knapsack/count_subset_sum.cpp)
+- [Equal Sum Subset](Dynamic_Programming/0-1_Knapsack/equal_sum_subset.cpp)
+- [Min Subset Sum Diff](Dynamic_Programming/0-1_Knapsack/min_subset_sum_diff.cpp)
+- [Subset Sum](Dynamic_Programming/0-1_Knapsack/subset_sum.cpp)
+- [Target Sum](Dynamic_Programming/0-1_Knapsack/target_sum.cpp)
+
+#### 📂 2D-3D Grids
+
+- [Grid Unique Paths](Dynamic_Programming/2D-3D_Grids/Grid_Unique_Paths.cpp)
+- [Grid Unique Paths 2](Dynamic_Programming/2D-3D_Grids/Grid_Unique_Paths_2.cpp)
+- [Minimum Falling Path Sum](Dynamic_Programming/2D-3D_Grids/Minimum_Falling_Path_Sum.cpp)
+- [Minimum Path Sum](Dynamic_Programming/2D-3D_Grids/Minimum_Path_Sum.cpp)
+- [Minimum Path Sum In Triangular Grid](Dynamic_Programming/2D-3D_Grids/Minimum_path_sum_in_Triangular_Grid.cpp)
+- [Ninja Training](Dynamic_Programming/2D-3D_Grids/Ninja_Training.cpp)
+
+#### 📂 Matrix Chain Multiplication
+
+- [Maxtrix Chain Multiplication](Dynamic_Programming/Matrix_Chain_Multiplication/Maxtrix_Chain_Multiplication.cpp)
+- [Evaluate Expression To True](Dynamic_Programming/Matrix_Chain_Multiplication/evaluate_expression_to_true.cpp)
+- [Palindrome Partitioning](Dynamic_Programming/Matrix_Chain_Multiplication/palindrome_partitioning.cpp)
+
+#### 📂 Others
+
+- [Dice Sum Ways](Dynamic_Programming/Others/Dice_Sum_Ways.cpp)
+
+#### 📂 Sequence Alignment
+
+- [Assign Cookies](Dynamic_Programming/Sequence_Alignment/Assign_Cookies.cpp)
+- [Count Distinct Subsequences](Dynamic_Programming/Sequence_Alignment/Count_Distinct_Subsequences.cpp)
+- [Edit Distance](Dynamic_Programming/Sequence_Alignment/Edit_Distance.cpp)
+- [Wildcard Matching](Dynamic_Programming/Sequence_Alignment/Wildcard_Matching.cpp)
+- [Check If X Subsequence Of Y](Dynamic_Programming/Sequence_Alignment/check_if_X_subsequence_of_Y.cpp)
+- [Length Of Longest Common Subsequence](Dynamic_Programming/Sequence_Alignment/length_of_longest_common_subsequence.cpp)
+- [Length Of Longest Common Substring](Dynamic_Programming/Sequence_Alignment/length_of_longest_common_substring.cpp)
+- [Length Of Longest Palindromic Subsequence](Dynamic_Programming/Sequence_Alignment/length_of_longest_palindromic_subsequence.cpp)
+- [Length Of Longest Palindromic Substring](Dynamic_Programming/Sequence_Alignment/length_of_longest_palindromic_substring.cpp)
+- [Length Of Longest Repeating Subsequence](Dynamic_Programming/Sequence_Alignment/length_of_longest_repeating_subsequence.cpp)
+- [Length Of Shortest Common Supersequence](Dynamic_Programming/Sequence_Alignment/length_of_shortest_common_supersequence.cpp)
+- [Min Deletion To Make Palindrome](Dynamic_Programming/Sequence_Alignment/min_deletion_to_make_palindrome.cpp)
+- [Min Insertion To Make Palindrome](Dynamic_Programming/Sequence_Alignment/min_insertion_to_make_palindrome.cpp)
+- [Min Number Insertions Deletions To Convert X To Y](Dynamic_Programming/Sequence_Alignment/min_number_insertions_deletions_to_convert_X_to_Y.cpp)
+- [Print Longest Common Subsequence](Dynamic_Programming/Sequence_Alignment/print_longest_common_subsequence.cpp)
+- [Print Longest Common Substring](Dynamic_Programming/Sequence_Alignment/print_longest_common_substring.cpp)
+- [Print Shortest Common Supersequence](Dynamic_Programming/Sequence_Alignment/print_shortest_common_supersequence.cpp)
+
+#### 📂 Stocks
+
+- [Best Time To Buy And Sell Stock 1](Dynamic_Programming/Stocks/Best_Time_to_Buy_and_Sell_Stock_1.cpp)
+- [Best Time To Buy And Sell Stock 2](Dynamic_Programming/Stocks/Best_Time_to_Buy_and_Sell_Stock_2.cpp)
+- [Best Time To Buy And Sell Stock 3](Dynamic_Programming/Stocks/Best_Time_to_Buy_and_Sell_Stock_3.cpp)
+- [Best Time To Buy And Sell Stock 4](Dynamic_Programming/Stocks/Best_Time_to_Buy_and_Sell_Stock_4.cpp)
+- [Best Time To Buy And Sell Stock 5](Dynamic_Programming/Stocks/Best_Time_to_Buy_and_Sell_Stock_5.cpp)
+- [Best Time To Buy And Sell Stock 6](Dynamic_Programming/Stocks/Best_Time_to_Buy_and_Sell_Stock_6.cpp)
+
+#### 📂 Unbounded Knapsack
+
+- [Coin Change 1](Dynamic_Programming/Unbounded_Knapsack/coin_change_1.cpp)
+- [Coin Change 2](Dynamic_Programming/Unbounded_Knapsack/coin_change_2.cpp)
+- [Maximum Ribbon Cut](Dynamic_Programming/Unbounded_Knapsack/maximum_ribbon_cut.cpp)
+- [Rod Cutting](Dynamic_Programming/Unbounded_Knapsack/rod_cutting.cpp)
+- [Unbounded Knapsack](Dynamic_Programming/Unbounded_Knapsack/unbounded_knapsack.cpp)
 
 </details>
 
@@ -318,6 +392,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Dynamic Programming**: 45 problems  
+  `██████████████████████████████████████████████░░░░`
 - **Graphs**: 45 problems  
   `██████████████████████████████████████████████░░░░`
 - **Greedy**: 20 problems  
@@ -335,7 +411,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 166</h4>
+- <h4>Total Problems Solved: 211</h4>
 
 ---
 
