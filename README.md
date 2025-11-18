@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 19-11-2025 01:20</h4>
+<h4 align="center">Last Updated: 19-11-2025 01:34</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -292,6 +292,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - 💻 [Asteroid Collision](Stack_and_Queue/Asteroid_Collision.cpp)
 - 💻 [Backspace String Compare](Stack_and_Queue/Backspace_String_Compare.cpp)
 - 💻 [Ball Collision](Stack_and_Queue/Ball_Collision.cpp)
+- 💻 [Basic Calculator](Stack_and_Queue/Basic_Calculator.cpp)
 - 💻 [Beautiful Array](Stack_and_Queue/Beautiful_Array.cpp)
 - 💻 [Evaluate Reverse Polish Notation](Stack_and_Queue/Evaluate_Reverse_Polish_Notation.cpp)
 - 💻 [Get Min At Pop](Stack_and_Queue/Get_min_at_pop.cpp)
@@ -412,8 +413,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Linked List**: 5 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Stack And Queue**: 14 problems  
-  `█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Stack And Queue**: 15 problems  
+  `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 51 problems  
@@ -421,7 +422,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 221</h4>
+- <h4>Total Problems Solved: 222</h4>
 
 ---
 
