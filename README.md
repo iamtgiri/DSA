@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 19-11-2025 00:02</h4>
+<h4 align="center">Last Updated: 19-11-2025 00:45</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -82,6 +82,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 <details>
   <summary>Click to expand</summary>
 
+- 💻 [1-Bit And 2-Bit Characters](Bit_Manipulation/1-bit_and_2-bit_Characters.cpp)
+- 🐍 [1-Bit And 2-Bit Characters](Bit_Manipulation/1-bit_and_2-bit_Characters.py)
 - 💻 [Check If A Number Is Power Of 2](Bit_Manipulation/Check_if_a_number_is_power_of_2.cpp)
 - 💻 [Counting Bits](Bit_Manipulation/Counting_Bits.cpp)
 - 💻 [Divide Two Integers](Bit_Manipulation/Divide_Two_Integers.cpp)
@@ -333,6 +335,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 #### 📂 Binary Tree
 
 - 💻 [All Nodes Distance K In Binary Tree](Trees/Binary_Tree/All_Nodes_Distance_K_in_Binary_Tree.cpp)
+- 💻 [Average Of Levels In Binary Tree](Trees/Binary_Tree/Average_of_Levels_in_Binary_Tree.cpp)
+- 🐍 [Average Of Levels In Binary Tree](Trees/Binary_Tree/Average_of_Levels_in_Binary_Tree.py)
 - 💻 [Balanced Binary Tree](Trees/Binary_Tree/Balanced_Binary_Tree.cpp)
 - 💻 [Binary Tree Inorder Traversal](Trees/Binary_Tree/Binary_Tree_Inorder_Traversal.cpp)
 - 💻 [Binary Tree Left Side View](Trees/Binary_Tree/Binary_Tree_Left_Side_View.cpp)
@@ -393,12 +397,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 16 problems  
   `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit Manipulation**: 8 problems  
-  `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Bit Manipulation**: 10 problems  
+  `██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dynamic Programming**: 47 problems  
-  `████████████████████████████████████████████████░░`
-- **Graphs**: 46 problems  
   `███████████████████████████████████████████████░░░`
+- **Graphs**: 46 problems  
+  `██████████████████████████████████████████████░░░░`
 - **Greedy**: 20 problems  
   `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 4 problems  
@@ -409,12 +413,12 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 48 problems  
+- **Trees**: 50 problems  
   `██████████████████████████████████████████████████`
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 214</h4>
+- <h4>Total Problems Solved: 218</h4>
 
 ---
 
