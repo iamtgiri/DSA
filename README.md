@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 09-11-2025 21:30</h4>
+<h4 align="center">Last Updated: 19-11-2025 00:02</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -126,6 +126,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 #### 📂 Others
 
 - 💻 [Dice Sum Ways](Dynamic_Programming/Others/Dice_Sum_Ways.cpp)
+- 💻 [Soup Servings](Dynamic_Programming/Others/Soup_Servings.cpp)
+- 🐍 [Soup Servings](Dynamic_Programming/Others/Soup_Servings.py)
 
 #### 📂 Sequence Alignment
 
@@ -393,8 +395,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 8 problems  
   `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Dynamic Programming**: 45 problems  
-  `██████████████████████████████████████████████░░░░`
+- **Dynamic Programming**: 47 problems  
+  `████████████████████████████████████████████████░░`
 - **Graphs**: 46 problems  
   `███████████████████████████████████████████████░░░`
 - **Greedy**: 20 problems  
@@ -412,7 +414,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 212</h4>
+- <h4>Total Problems Solved: 214</h4>
 
 ---
 
