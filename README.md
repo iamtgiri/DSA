@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 25-11-2025 13:36</h4>
+<h4 align="center">Last Updated: 25-11-2025 14:08</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -76,6 +76,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 #### 📂 Two Pointers
 
 - 💻 [Closest Three Sum](Arrays/Two_Pointers/Closest_Three_Sum.cpp)
+- 💻 [Minimal Window To Sort Array](Arrays/Two_Pointers/Minimal_Window_to_Sort_Array.cpp)
 - 💻 [Min Swap](Arrays/Two_Pointers/min_swap.cpp)
 - 💻 [Minimum Window Substring](Arrays/Two_Pointers/minimum_window_substring.cpp)
 - 💻 [Next Permutation](Arrays/Two_Pointers/next_permutation.cpp)
@@ -407,8 +408,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 20 problems  
-  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 21 problems  
+  `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 12 problems  
   `███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dynamic Programming**: 47 problems  
@@ -430,7 +431,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 230</h4>
+- <h4>Total Problems Solved: 231</h4>
 
 ---
 
