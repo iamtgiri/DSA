@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 25-11-2025 09:19</h4>
+<h4 align="center">Last Updated: 25-11-2025 10:09</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -87,6 +87,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 - 💻 [1-Bit And 2-Bit Characters](Bit_Manipulation/1-bit_and_2-bit_Characters.cpp)
 - 🐍 [1-Bit And 2-Bit Characters](Bit_Manipulation/1-bit_and_2-bit_Characters.py)
+- 💻 [Bits Counting](Bit_Manipulation/Bits_Counting.cpp)
 - 💻 [Check If A Number Is Power Of 2](Bit_Manipulation/Check_if_a_number_is_power_of_2.cpp)
 - 💻 [Counting Bits](Bit_Manipulation/Counting_Bits.cpp)
 - 💻 [Divide Two Integers](Bit_Manipulation/Divide_Two_Integers.cpp)
@@ -406,8 +407,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ## 📊 Summary
 - **Arrays**: 19 problems  
   `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit Manipulation**: 10 problems  
-  `█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Bit Manipulation**: 11 problems  
+  `██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dynamic Programming**: 47 problems  
   `██████████████████████████████████████████████░░░░`
 - **Graphs**: 47 problems  
@@ -427,7 +428,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 227</h4>
+- <h4>Total Problems Solved: 228</h4>
 
 ---
 
