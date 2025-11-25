@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 25-11-2025 08:31</h4>
+<h4 align="center">Last Updated: 25-11-2025 09:19</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -44,6 +44,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Binary Search
 
+- 💻 [K-Th Missing Element](Arrays/Binary_Search/K-th_missing_element.cpp)
 - 💻 [Successful Pairs Of Spells And Potions](Arrays/Binary_Search/Successful_Pairs_of_Spells_and_Potions.cpp)
 - 💻 [Allocate Books](Arrays/Binary_Search/allocate_books.cpp)
 - 💻 [Binary Search](Arrays/Binary_Search/binary_search.cpp)
@@ -68,6 +69,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Sorting
 
+- 💻 [Unique Number Of Occurrences](Arrays/Sorting/Unique_Number_of_Occurrences.cpp)
 - 💻 [Radix Sort](Arrays/Sorting/radix_sort.cpp)
 
 #### 📂 Two Pointers
@@ -196,6 +198,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - 💻 [Valid Library Log](Graphs/BFS_DFS/Valid_Library_Log.cpp)
 - 💻 [Word Ladder](Graphs/BFS_DFS/Word_Ladder.cpp)
 - 💻 [Word Ladder 2](Graphs/BFS_DFS/Word_Ladder_2.cpp)
+- 💻 [Word Search](Graphs/BFS_DFS/Word_Search.cpp)
 - 💻 [Bfs Traversal](Graphs/BFS_DFS/bfs_traversal.cpp)
 - 💻 [Dfs Traversal](Graphs/BFS_DFS/dfs_traversal.cpp)
 - 💻 [Introduction - Graph Representation](Graphs/BFS_DFS/introduction_-_graph_representation.cpp)
@@ -401,14 +404,14 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 17 problems  
-  `████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 19 problems  
+  `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 10 problems  
   `█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dynamic Programming**: 47 problems  
   `██████████████████████████████████████████████░░░░`
-- **Graphs**: 46 problems  
-  `█████████████████████████████████████████████░░░░░`
+- **Graphs**: 47 problems  
+  `██████████████████████████████████████████████░░░░`
 - **Greedy**: 20 problems  
   `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Heap**: 5 problems  
@@ -424,7 +427,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 224</h4>
+- <h4>Total Problems Solved: 227</h4>
 
 ---
 
