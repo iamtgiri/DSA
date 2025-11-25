@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 25-11-2025 10:09</h4>
+<h4 align="center">Last Updated: 25-11-2025 13:36</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -59,6 +59,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 #### 📂 Matrix
 
 - 💻 [Count Number Of Trapezoids-I](Arrays/Matrix/Count_Number_of_Trapezoids-I.cpp)
+- 💻 [Remaining Leaves In Garden](Arrays/Matrix/Remaining_Leaves_in_Garden.cpp)
 - 💻 [Valid Sudoku](Arrays/Matrix/Valid_Sudoku.cpp)
 
 #### 📂 Sliding Window
@@ -93,6 +94,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - 💻 [Divide Two Integers](Bit_Manipulation/Divide_Two_Integers.cpp)
 - 💻 [Find Xor Of Numbers From L To R](Bit_Manipulation/Find_XOR_of_numbers_from_L_to_R.cpp)
 - 💻 [Minimum Flips](Bit_Manipulation/Minimum_Flips.cpp)
+- 💻 [Sum Of Xor Of All Possible Subsets](Bit_Manipulation/Sum_of_XOR_of_all_possible_subsets.cpp)
 - 💻 [Swap Two Numbers](Bit_Manipulation/Swap_two_numbers.cpp)
 - 💻 [Max Product Pair](Bit_Manipulation/max_product_pair.cpp)
 - 💻 [Number That Appears Odd Number Of Times](Bit_Manipulation/number_that_appears_odd_number_of_times.cpp)
@@ -405,10 +407,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 19 problems  
-  `██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit Manipulation**: 11 problems  
-  `██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 20 problems  
+  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Bit Manipulation**: 12 problems  
+  `███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dynamic Programming**: 47 problems  
   `██████████████████████████████████████████████░░░░`
 - **Graphs**: 47 problems  
@@ -428,7 +430,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 228</h4>
+- <h4>Total Problems Solved: 230</h4>
 
 ---
 
