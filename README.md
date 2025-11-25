@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 19-11-2025 01:34</h4>
+<h4 align="center">Last Updated: 25-11-2025 08:06</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -266,6 +266,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 <details>
   <summary>Click to expand</summary>
 
+- 💻 [Find Median In A Stream](Heap/Find_median_in_a_stream.cpp)
 - 💻 [K Max Sum Combinations](Heap/k_max_sum_combinations.cpp)
 - 💻 [Max Heap](Heap/max_heap.cpp)
 - 💻 [Max Sum With K Swaps](Heap/max_sum_with_k_swaps.cpp)
@@ -409,8 +410,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `█████████████████████████████████████████████░░░░░`
 - **Greedy**: 20 problems  
   `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Heap**: 4 problems  
-  `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Heap**: 5 problems  
+  `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Linked List**: 5 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Stack And Queue**: 15 problems  
@@ -422,7 +423,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 222</h4>
+- <h4>Total Problems Solved: 223</h4>
 
 ---
 
