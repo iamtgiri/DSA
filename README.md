@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 26-11-2025 02:39</h4>
+<h4 align="center">Last Updated: 26-11-2025 09:19</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -187,6 +187,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - 💻 [01 Matrix](Graphs/BFS_DFS/01_Matrix.cpp)
 - 💻 [Bipartite Graph](Graphs/BFS_DFS/Bipartite_Graph.cpp)
 - 💻 [Circle Of Strings](Graphs/BFS_DFS/Circle_of_strings.cpp)
+- 💻 [Component Size By Shared Prime Factors](Graphs/BFS_DFS/Component_Size_by_Shared_Prime_Factors.cpp)
 - 💻 [Connected Components In An Undirected Graph](Graphs/BFS_DFS/Connected_Components_in_an_Undirected_Graph.cpp)
 - 💻 [Covid Spread](Graphs/BFS_DFS/Covid_Spread.cpp)
 - 💻 [Cycle Detection In Unirected Graph](Graphs/BFS_DFS/Cycle_Detection_in_unirected_Graph.cpp)
@@ -240,7 +241,6 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - 💻 [Kahns Algorithm](Graphs/Topo_Sort/Kahns_Algorithm.cpp)
 - 💻 [Parallel Courses 3](Graphs/Topo_Sort/Parallel_Courses_3.cpp)
 - 💻 [Topological Sort](Graphs/Topo_Sort/Topological_sort.cpp)
-- 💻 [Temp](Graphs/temp.cpp)
 
 </details>
 
