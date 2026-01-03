@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 03-01-2026 18:23</h4>
+<h4 align="center">Last Updated: 03-01-2026 18:26</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -29,6 +29,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - [Greedy](#-greedy)
 - [Heap](#-heap)
 - [Linked List](#-linked_list)
+- [Object Oriented Programming](#-object_oriented_programming)
+- [Stack And Queue](#-stack_and_queue)
 - [Strings](#-strings)
 - [Trees](#-trees)
 - [Others](#-others)
@@ -294,6 +296,36 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
+## ■ Object Oriented Programming
+<details>
+  <summary>Click to expand</summary>
+
+- 💻 [Virtual Function](Object_Oriented_Programming/virtual_function.cpp)
+
+</details>
+
+## ■ Stack And Queue
+<details>
+  <summary>Click to expand</summary>
+
+- 💻 [Asteroid Collision](Stack_and_Queue/Asteroid_Collision.cpp)
+- 💻 [Backspace String Compare](Stack_and_Queue/Backspace_String_Compare.cpp)
+- 💻 [Ball Collision](Stack_and_Queue/Ball_Collision.cpp)
+- 💻 [Basic Calculator](Stack_and_Queue/Basic_Calculator.cpp)
+- 💻 [Beautiful Array](Stack_and_Queue/Beautiful_Array.cpp)
+- 💻 [Evaluate Reverse Polish Notation](Stack_and_Queue/Evaluate_Reverse_Polish_Notation.cpp)
+- 💻 [Get Min At Pop](Stack_and_Queue/Get_min_at_pop.cpp)
+- 💻 [Largest Rectangle In Histogram](Stack_and_Queue/Largest_Rectangle_in_Histogram.cpp)
+- 💻 [Minimum Add To Make Parentheses Valid](Stack_and_Queue/Minimum_Add_to_Make_Parentheses_Valid.cpp)
+- 💻 [Prefix Evaluation](Stack_and_Queue/Prefix_Evaluation.cpp)
+- 💻 [Print Bracket Number](Stack_and_Queue/Print_Bracket_Number.cpp)
+- 💻 [Remove K Digits](Stack_and_Queue/Remove_K_Digits.cpp)
+- 💻 [Simplify Path](Stack_and_Queue/Simplify_Path.cpp)
+- 🐍 [Simplify Path](Stack_and_Queue/Simplify_Path.py)
+- 💻 [Valid Parentheses](Stack_and_Queue/Valid_Parentheses.cpp)
+
+</details>
+
 ## ■ Strings
 <details>
   <summary>Click to expand</summary>
@@ -400,6 +432,10 @@ This repository contains my practice code for **Data Structures and Algorithms (
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Linked List**: 5 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Object Oriented Programming**: 1 problems  
+  `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Stack And Queue**: 15 problems  
+  `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Strings**: 5 problems  
   `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Trees**: 51 problems  
@@ -407,7 +443,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 217</h4>
+- <h4>Total Problems Solved: 233</h4>
 
 ---
 
