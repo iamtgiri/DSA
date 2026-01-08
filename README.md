@@ -1,4 +1,4 @@
-<h4 align="center">Last Updated: 03-01-2026 18:26</h4>
+<h4 align="center">Last Updated: 08-01-2026 10:49</h4>
 
 <h1 align="center">Data Structures and Algorithms (DSA)</h1>
 
@@ -71,7 +71,11 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 #### 📂 Sorting
 
+- 💻 [3 Way Merge Sort](Arrays/Sorting/3_way_merge_sort.cpp)
 - 💻 [Unique Number Of Occurrences](Arrays/Sorting/Unique_Number_of_Occurrences.cpp)
+- 💻 [Count Inversions](Arrays/Sorting/count_inversions.cpp)
+- 💻 [Number Of Triangles](Arrays/Sorting/number_of_triangles.cpp)
+- 💻 [One Loop Insertion Sort](Arrays/Sorting/one_loop_insertion_sort.cpp)
 - 💻 [Radix Sort](Arrays/Sorting/radix_sort.cpp)
 
 #### 📂 Two Pointers
@@ -418,8 +422,8 @@ This repository contains my practice code for **Data Structures and Algorithms (
 ---
 
 ## 📊 Summary
-- **Arrays**: 21 problems  
-  `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+- **Arrays**: 25 problems  
+  `████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Bit Manipulation**: 12 problems  
   `███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 - **Dynamic Programming**: 47 problems  
@@ -443,7 +447,7 @@ This repository contains my practice code for **Data Structures and Algorithms (
 - **Others**: 3 problems  
   `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-- <h4>Total Problems Solved: 233</h4>
+- <h4>Total Problems Solved: 237</h4>
 
 ---
 
