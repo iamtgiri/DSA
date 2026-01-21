@@ -1,46 +1,37 @@
-<h4 align="center">Last Updated: 08-01-2026 10:49</h4>
+# Data Structures & Algorithms (DSA)
 
-<h1 align="center">Data Structures and Algorithms (DSA)</h1>
+This repository contains my implementations and practice solutions for **Data Structures and Algorithms**, primarily written in **C++**, with a few problems in **Python**.
 
+The goal of this repository is to build and maintain a strong foundation in:
+- Algorithmic problem solving
+- Core data structures
+- Common interview and competitive programming patterns
 
-<p align="center"> 
-  <!-- 🔹 Core repo info -->
-  <img src="https://img.shields.io/github/repo-size/iamtgiri/DSA?style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/github/languages/top/iamtgiri/DSA?style=for-the-badge&color=white" />
-  <img src="https://img.shields.io/github/last-commit/iamtgiri/DSA?style=for-the-badge&color=success" />
-</p>
-
-<p align="center"> 
-  <!-- 🔹 Social + Fun -->
-  <img src="https://img.shields.io/badge/DSA-Practice-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keep-Coding-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-In%20Progress-blueviolet?style=for-the-badge" />
-</p>
-
-
-This repository contains my practice code for **Data Structures and Algorithms (DSA)**. It includes solutions to common problems, algorithm implementations and coding exercises to sharpen problem-solving skills.
+This work was done during my M.Tech coursework and interview preparation and is maintained as a long-term learning archive.
 
 ---
-## 📂 Categories
-- [Arrays](#-arrays)
-- [Bit Manipulation](#-bit_manipulation)
-- [Dynamic Programming](#-dynamic_programming)
-- [Graphs](#-graphs)
-- [Greedy](#-greedy)
-- [Heap](#-heap)
-- [Linked List](#-linked_list)
-- [Object Oriented Programming](#-object_oriented_programming)
-- [Stack And Queue](#-stack_and_queue)
-- [Strings](#-strings)
-- [Trees](#-trees)
-- [Others](#-others)
+
+## Repository Structure
+- Arrays
+- Bit Manipulation
+- Dynamic Programming
+- Graphs
+- Greedy
+- Heap
+- Linked List
+- Object Oriented Programming
+- Stack And Queue
+- Strings
+- Trees
+- Others
 
 ---
-## ※ Problems List
 
-## ■ Arrays
+## Problem Archive
+
+### Arrays
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 
 #### 📂 Binary Search
@@ -88,9 +79,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Bit Manipulation
+### Bit Manipulation
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [1-Bit And 2-Bit Characters](Bit_Manipulation/1-bit_and_2-bit_Characters.cpp)
 - 🐍 [1-Bit And 2-Bit Characters](Bit_Manipulation/1-bit_and_2-bit_Characters.py)
@@ -107,9 +98,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Dynamic Programming
+### Dynamic Programming
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 
 #### 📂 0-1 Knapsack
@@ -182,9 +173,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Graphs
+### Graphs
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 
 #### 📂 Bfs Dfs
@@ -249,9 +240,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Greedy
+### Greedy
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Assign Cookies](Greedy/Assign_Cookies.cpp)
 - 💻 [Assign Mice Holes](Greedy/Assign_Mice_Holes.cpp)
@@ -276,9 +267,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Heap
+### Heap
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Find Median In A Stream](Heap/Find_median_in_a_stream.cpp)
 - 💻 [K Max Sum Combinations](Heap/k_max_sum_combinations.cpp)
@@ -288,9 +279,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Linked List
+### Linked List
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Deleting A Node In Linkedlist](Linked_List/Deleting_a_node_in_LinkedList.cpp)
 - 💻 [Maximum Twin Sum Of Linked List](Linked_List/Maximum_Twin_Sum_of_Linked_List.cpp)
@@ -300,17 +291,17 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Object Oriented Programming
+### Object Oriented Programming
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Virtual Function](Object_Oriented_Programming/virtual_function.cpp)
 
 </details>
 
-## ■ Stack And Queue
+### Stack And Queue
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Asteroid Collision](Stack_and_Queue/Asteroid_Collision.cpp)
 - 💻 [Backspace String Compare](Stack_and_Queue/Backspace_String_Compare.cpp)
@@ -330,9 +321,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Strings
+### Strings
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Ancestral Names](Strings/Ancestral_Names.cpp)
 - 💻 [Basic Calculator 2](Strings/Basic_Calculator_2.cpp)
@@ -342,9 +333,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Trees
+### Trees
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 
 #### 📂 Binary Search Tree
@@ -409,9 +400,9 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 </details>
 
-## ■ Others
+### Others
 <details>
-  <summary>Click to expand</summary>
+<summary>View problems</summary>
 
 - 💻 [Largest Square In Cityscape](Others/Largest_Square_in_Cityscape.cpp)
 - 💻 [Library Book Tracker](Others/Library_Book_Tracker.cpp)
@@ -421,40 +412,16 @@ This repository contains my practice code for **Data Structures and Algorithms (
 
 ---
 
-## 📊 Summary
-- **Arrays**: 25 problems  
-  `████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Bit Manipulation**: 12 problems  
-  `███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Dynamic Programming**: 47 problems  
-  `██████████████████████████████████████████████░░░░`
-- **Graphs**: 48 problems  
-  `███████████████████████████████████████████████░░░`
-- **Greedy**: 20 problems  
-  `███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Heap**: 5 problems  
-  `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Linked List**: 5 problems  
-  `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Object Oriented Programming**: 1 problems  
-  `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Stack And Queue**: 15 problems  
-  `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Strings**: 5 problems  
-  `████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-- **Trees**: 51 problems  
-  `██████████████████████████████████████████████████`
-- **Others**: 3 problems  
-  `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-
-- <h4>Total Problems Solved: 237</h4>
+## Languages Used
+- **C++** (primary)
+- **Python** (selected problems)
 
 ---
 
-## ※ Contributing
+## Contributing
 
-This repository is primarily for personal practice, but contributions are always welcome! Feel free to open issues or submit pull requests with improvements, suggestions or new problem solutions.
+This repository is primarily for personal learning. Suggestions, corrections, and improvements are welcome via issues or pull requests.
 
-<p align="center">
-  <b>Keep coding, keep learning!</b>
-</p>
+---
+
+**Consistent practice over time beats short-term intensity.**
