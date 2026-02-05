@@ -62,12 +62,17 @@ This work was done during my M.Tech coursework and interview preparation and is 
 
 #### 📂 Sorting
 
+
+#### 📂 .Cph
+
 - 💻 [3 Way Merge Sort](Arrays/Sorting/3_way_merge_sort.cpp)
 - 💻 [Unique Number Of Occurrences](Arrays/Sorting/Unique_Number_of_Occurrences.cpp)
 - 💻 [Count Inversions](Arrays/Sorting/count_inversions.cpp)
 - 💻 [Number Of Triangles](Arrays/Sorting/number_of_triangles.cpp)
 - 💻 [One Loop Insertion Sort](Arrays/Sorting/one_loop_insertion_sort.cpp)
 - 💻 [Radix Sort](Arrays/Sorting/radix_sort.cpp)
+- 💻 [Randomized Quickselect](Arrays/Sorting/randomized_quickSelect.cpp)
+- 💻 [Randomized Quicksort](Arrays/Sorting/randomized_quicksort.cpp)
 
 #### 📂 Two Pointers
 
