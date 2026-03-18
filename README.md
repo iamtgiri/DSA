@@ -138,6 +138,7 @@ This work was done during my M.Tech coursework and interview preparation and is 
 - 💻 [Dice Sum Ways](Dynamic_Programming/Others/Dice_Sum_Ways.cpp)
 - 💻 [Soup Servings](Dynamic_Programming/Others/Soup_Servings.cpp)
 - 🐍 [Soup Servings](Dynamic_Programming/Others/Soup_Servings.py)
+- 💻 [Circular House Robbery](Dynamic_Programming/Others/circular_house_robbery.cpp)
 
 #### 📂 Sequence Alignment
 
